@@ -1,0 +1,179 @@
+common_ingredient_name,ingredient_category,default_unit
+almond,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+almond butter,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+broad bean,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+cashew,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+edamame,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+green bean,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+peanut,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+peanut butter,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+sesame,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+snap pea,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+snow pea,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+soy,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+sunflower butter,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+sunflower seed,beans / peas / lentils / nuts / nut butter / seeds,tablespoon
+beef broth,broth / stock,cup
+broth,broth / stock,cup
+chicken broth,broth / stock,cup
+chicken stock,broth / stock,cup
+vegetable broth,broth / stock,cup
+vegetable stock,broth / stock,cup
+butter,cheese / butter,tablespoon
+cheese,cheese / butter,tablespoon
+ghee,cheese / butter,tablespoon
+bell pepper,chili / pepper,unit
+chili,chili / pepper,teaspoon
+chili flakes,chili / pepper,teaspoon
+chili paste,chili / pepper,teaspoon
+chili powder,chili / pepper,teaspoon
+ground black pepper,chili / pepper,teaspoon
+ground pepper,chili / pepper,teaspoon
+paprika,chili / pepper,teaspoon
+pepper,chili / pepper,unit
+red chili,chili / pepper,unit
+taco seasoning,chili / pepper,teaspoon
+thai chili,chili / pepper,unit
+thai red curry paste,chili / pepper,teaspoon
+coconut milk,coconut milk,cup
+egg,egg,unit
+egg white,egg,unit
+date palm,fruit / fruit juice,unit
+juice,fruit / fruit juice,tablespoon
+orange juice,fruit / fruit juice,unit
+pineapple,fruit / fruit juice,tablespoon
+clove,herbs,unit
+coriander / cilantro,herbs,tablespoon
+cumin powder,herbs,tablespoon
+curry powder,herbs,tablespoon
+galangal,herbs,tablespoon
+garlic,herbs,clove
+garlic powder,herbs,teaspoon
+minced ginger,herbs,teaspoon
+ground ginger,herbs,teaspoon
+ginger garlic paste,herbs,teaspoon
+kaffir lime leaf,herbs,tablespoon
+lemongrass,herbs,tablespoon
+mint,herbs,tablespoon
+tamarind concentrate / tamarind paste / tamarind juice,herbs,tablespoon
+turmeric,herbs,teaspoon
+lemon,lime / lemon,unit
+lemon juice,lime / lemon,tablespoon
+lemon wedge,lime / lemon,unit
+lime,lime / lemon,unit
+lime juice,lime / lemon,tablespoon
+lime peel,lime / lemon,tablespoon
+lime wedge,lime / lemon,unit
+bacon,meat,slice
+beef,meat,ounce
+chicken,meat,ounce
+chicken breast,meat,ounce
+chicken thigh,meat,ounce
+dried shrimp,meat,tablespoon
+meat,meat,ounce
+pork,meat,ounce
+sausage,meat,ounce
+shrimp,meat,ounce
+shrimp scampi,meat,ounce
+mushroom,mushroom,cup
+spaghetti squash,noodle / spaghetti,ounce
+japanese noodle,noodle / spaghetti,ounce
+kelp noodle,noodle / spaghetti,ounce
+rice noodle,noodle / spaghetti,ounce
+rice vermicelli,noodle / spaghetti,ounce
+shirataki noodle,noodle / spaghetti,ounce
+spaghetti,noodle / spaghetti,ounce
+avocado oil,oil,tablespoon
+canola oil,oil,tablespoon
+coconut oil,oil,tablespoon
+flaxseed oil,oil,tablespoon
+grapeseed oil,oil,tablespoon
+oil,oil,tablespoon
+olive oil,oil,tablespoon
+peanut oil,oil,tablespoon
+rapeseed oil,oil,tablespoon
+safflower oil,oil,tablespoon
+sesame oil,oil,tablespoon
+sunflower oil,oil,tablespoon
+vegetable oil,oil,tablespoon
+onion,onion,cup
+onion powder,onion,teaspoon
+red onion,onion,cup
+shallot,onion,cup
+white onion,onion,cup
+yellow onion,onion,unit
+quinoa,quinoa,cup
+rice paper wrappers,rice paper wrappers,inch
+chili garlic sauce,sauce / salt,tablespoon
+chili sauce,sauce / salt,tablespoon
+coconut aminos,sauce / salt,tablespoon
+condiments,sauce / salt,tablespoon
+fish sauce,sauce / salt,tablespoon
+hoisin sauce,sauce / salt,tablespoon
+ketchup,sauce / salt,tablespoon
+tomato paste,sauce / salt,tablespoon
+liquid aminos,sauce / salt,tablespoon
+mustard,sauce / salt,tablespoon
+oyster sauce,sauce / salt,tablespoon
+peanut sauce,sauce / salt,tablespoon
+salt,sauce / salt,tablespoon
+pad thai sauce,sauce / salt,tablespoon
+soy sauce,sauce / salt,tablespoon
+sriracha sauce,sauce / salt,tablespoon
+tahini,sauce / salt,tablespoon
+teriyaki sauce,sauce / salt,tablespoon
+worcestershire sauce,sauce / salt,tablespoon
+seaweed,seaweed,sheet
+shrimp paste,shrimp paste,tablespoon
+miso paste,soybean paste,tablespoon
+soybean paste,soybean paste,tablespoon
+flour,starch / flour,tablespoon
+starch,starch / flour,tablespoon
+agave syrup,sugar / sweeteners / syrup,tablespoon
+brown sugar,sugar / sweeteners / syrup,tablespoon
+honey,sugar / sweeteners / syrup,tablespoon
+maple syrup,sugar / sweeteners / syrup,tablespoon
+molasses,sugar / sweeteners / syrup,tablespoon
+raw sugar,sugar / sweeteners / syrup,tablespoon
+sugar,sugar / sweeteners / syrup,tablespoon
+sweetener,sugar / sweeteners / syrup,tablespoon
+syrup,sugar / sweeteners / syrup,tablespoon
+white sugar,sugar / sweeteners / syrup,tablespoon
+firm tofu,tofu,ounce
+soft tofu,tofu,ounce
+tofu,tofu,ounce
+asparagus,vegetable,spear
+avocado,vegetable,cup
+baby corn,vegetable,cup
+baby spinach,vegetable,cup
+banana blossom,vegetable,cup
+basil,vegetable,cup
+bean sprout,vegetable,cup
+broccoli,vegetable,cup
+broccoli slaw,vegetable,ounce
+butternut squash,vegetable,cup
+cabbage,vegetable,cup
+carrot,vegetable,cup
+cauliflower florets,vegetable,cup
+chinese chive,vegetable,cup
+coleslaw,vegetable,ounce
+cucumber,vegetable,cup
+greens,vegetable,tablespoon
+ground radish,vegetable,tablespoon
+kale,vegetable,bunch
+leaves,vegetable,stalk
+lettuce,vegetable,head
+pak choi,vegetable,ounce
+potato,vegetable,unit
+preserved radish,vegetable,cup
+radish,vegetable,cup
+scallion / spring onion / green onion,vegetable,cup
+thai basil,vegetable,cup
+frozen vegetable,vegetable,ounce
+vegetable,vegetable,cup
+water chestnut,vegetable,cup
+yellow summer squash,vegetable,unit
+zucchini / courgette / baby marrow,vegetable,unit
+vinegar,vinegar,tablespoon
+water,water,cup
+yeast,yeast,cup

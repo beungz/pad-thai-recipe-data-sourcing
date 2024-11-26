@@ -1,0 +1,11 @@
+unit_X,unit_Y,equivalent_Y_for_oneX
+cup,tablespoon,16
+cup,teaspoon,48
+gram,ounce,0.03527396
+mL,cup,0.00422675
+mL,tablespoon,0.0667
+pound,ounce,16
+tablespoon,cup,0.0625
+tablespoon,teaspoon,3
+teaspoon,cup,0.020833333
+teaspoon,tablespoon,0.333333333
