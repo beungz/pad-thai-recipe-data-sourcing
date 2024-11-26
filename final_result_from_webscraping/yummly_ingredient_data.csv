@@ -1,0 +1,2504 @@
+,recipe_id,ingredient_name,ingredient_amount,ingredient_unit,ingredient_remainder
+0,1,rice noodles,12,oz.,(dried flat)
+1,1,vegetable oil,2,Tbsp.,(divided)
+2,1,chicken breast,1.5,lb.,(cut into 1-inch cubes)
+3,1,lime juice,0.25,cup,(freshly squeezed)
+4,1,fish sauce,2,Tbsp.,
+5,1,soy sauce,2,Tbsp.,
+6,1,creamy peanut butter,2,Tbsp.,
+7,1,Sriracha,1.5,Tbsp.,
+8,1,tamarind concentrate,2,tsp.,
+9,1,granulated sugar,1,tsp.,
+10,1,thai chiles,1,Tbsp.,"(finely chopped, plus more for garnish, if you don't like spicy, you can use less or cut out altogether)"
+11,1,red bell pepper,1,,(thinly sliced)
+12,1,shredded carrots,1,cup,
+13,1,large garlic cloves,2,,(minced)
+14,1,large eggs,3,,(lightly beaten)
+15,1,bean sprouts,1,cup,
+16,1,scallions,0.25,cup,"(chopped, for garnish, optional)"
+17,1,peanuts,0.25,cup,"(crushed, for garnish, optional)"
+18,1,chopped cilantro,,,"(for garnish, optional)"
+19,1,lime wedges,,,"(for garnish, optional)"
+0,2,minced garlic,1,tsp.,
+1,2,thai chiles,2,,(very thinly sliced)
+2,2,palm sugar,4.5,oz.,"(or 2/3 cup, 5 oz./155 g firmly packed brown sugar)"
+3,2,tamarind paste,0.5,cup,
+4,2,asian fish sauce,6,Tbsp.,
+5,2,fresh lime juice,1.5,tsp.,
+6,2,pad thai noodles,7,oz.,
+7,2,canola oil,2,Tbsp.,
+8,2,large shrimp,1,lb.,(peeled and deveined)
+9,2,red pepper flakes,1,pinch,
+10,2,eggs,3,,
+11,2,extra firm tofu,5,oz.,(julienned)
+12,2,carrots,2,,(peeled and julienned)
+13,2,bean sprouts,4,oz.,
+14,2,green onions,2,,"(white and light green portions, sliced)"
+15,2,cilantro leaves,,,
+16,2,roasted peanuts,,,
+17,2,lime wedges,,,
+0,3,rice noodles,160,grams,"(cooked as the package says, for an extra flavor, add some sugar in the water)"
+1,3,soybean sprouts,1,cup,
+2,3,chicken,100,grams,(cut into small pieces)
+3,3,eggs,2,,
+4,3,carrots,1,,(diced)
+5,3,roasted peanuts,3,Tbsp.,(crushed)
+6,3,tamarind juice,0.666666667,cup,(or 4 teaspoons white vinegar mixed with 6 teaspoons water)
+7,3,sugar,3,tsp.,
+8,3,fish sauce,2,tsp.,
+9,3,soy sauce,2,tsp.,
+10,3,spring onions,2,tsp.,(chopped)
+11,3,chili powder,1,pinch,
+12,3,oil,6,Tbsp.,
+13,3,salt,1,pinch,
+14,3,crushed garlic,5,cloves,
+0,4,rice stick noodles,10,oz.,
+1,4,boiling water,,,
+2,4,limes,3,,(plus 1 more if needed for juice)
+3,4,light brown sugar,0.333333333,cup,(packed)
+4,4,fish sauce,0.25,cup,
+5,4,chili garlic sauce,2,tsp.,
+6,4,Worcestershire sauce,2,tsp.,
+7,4,green onions,2,,
+8,4,roasted salted peanuts,0.333333333,cup,
+9,4,vegetable oil,0.333333333,cup,
+10,4,peeled and deveined shrimp,12,,(large)
+11,4,large eggs,2,,
+12,4,bean sprouts,1.5,cups,
+0,5,soy sauce,0.25,cup,
+1,5,maple syrup,1,Tbsp.,
+2,5,peanut butter,2,Tbsp.,
+3,5,lime juice,0.25,cup,
+4,5,fish sauce,1,tsp.,(substitute with more soy sauce if vegetarian)
+5,5,rice noodles,250,grams,
+6,5,garlic,1,Tbsp.,(infused olive oil)
+7,5,chicken breasts,2,,"(cubed, use 200g firm tofu for a vegetarian option)"
+8,5,eggs,2,,(whisked)
+9,5,fresh ginger,2,tsp.,(grated)
+10,5,chili,1,,(finely sliced)
+11,5,zucchinis,2,,(made into veggie noodles using a spiraliser)
+12,5,carrot,1,,(made into veggie noodles using a spiraliser)
+13,5,bean sprouts,1,cup,
+14,5,spring onion,0.5,bunch,"(green section only, chopped)"
+15,5,coriander leaves,1,cup,
+16,5,lime,1,,(to serve)
+0,6,pad thai noodles,7,oz.,(rice noodles)
+1,6,extra-virgin olive oil,1,Tbsp.,
+2,6,eggs,2,,
+3,6,soy sauce,3,Tbsp.,
+4,6,fish sauce,1,Tbsp.,
+5,6,Sriracha,1,Tbsp.,
+6,6,fresh lime juice,2,Tbsp.,
+7,6,canola oil,2,Tbsp.,
+8,6,brown sugar,2,Tbsp.,
+9,6,peanut butter,1,Tbsp.,(microwaved until just melted)
+10,6,bean sprouts,1,cup,(fresh)
+11,6,cilantro,1,cup,
+12,6,scallions,3,,(thinly sliced)
+13,6,peanuts,0.5,cup,(chopped)
+14,6,cooked meat,,,"(Optional:, your choice)"
+0,7,pad thai noodles,7,oz.,
+1,7,extra-virgin olive oil,1,Tbsp.,
+2,7,eggs,2,,
+3,7,soy sauce,3,Tbsp.,
+4,7,fish sauce,1,Tbsp.,
+5,7,sambal oelek,1,Tbsp.,(or sriracha)
+6,7,fresh lime juice,2,Tbsp.,
+7,7,canola oil,2,Tbsp.,
+8,7,brown sugar,2,Tbsp.,
+9,7,bean sprouts,1,cup,(fresh)
+10,7,cilantro,1,cup,
+11,7,scallions,3,,(thinly sliced)
+12,7,peanuts,0.5,cup,(chopped)
+0,8,coconut oil,2,Tbsp.,(or other cooking fat)
+1,8,fish sauce,0.25,cup,
+2,8,fresh lime juice,6,Tbsp.,
+3,8,garlic,2,cloves,(crushed)
+4,8,broccoli slaw,24,oz.,(8 to 10 cups)
+5,8,large carrots,3,,(julienned or thickly grated)
+6,8,shrimp,16,oz.,"(salad, precooked and tails off)"
+7,8,fresh cilantro,0.5,cup,(chopped)
+8,8,green onions,3,,(sliced)
+9,8,roasted unsalted cashews,0.333333333,cup,(chopped)
+0,9,oil,3,Tbsp.,
+1,9,garlic,2,cloves,(minced)
+2,9,egg,1,,(omit for vegan)
+3,9,extra firm tofu,3,oz.,"(diced, or cubed chicken)"
+4,9,broth,4,cups,(veggie or chicken)
+5,9,rice noodles,4,oz.,(also called pad thai noodles)
+6,9,soy sauce,3,Tbsp.,
+7,9,Sriracha,0.25,tsp.,
+8,9,fish sauce,1,Tbsp.,"(For vegan, use adaptation listed in above post)"
+9,9,roasted peanuts,0.25,cup,(crushed)
+10,9,green onions,0.25,cup,
+11,9,red peppers,1,tsp.,(crushed)
+0,10,rice noodles,8,oz.,"(flat, linguini or fettuccini width)"
+1,10,large eggs,2,,
+2,10,vegetable oil,,,
+3,10,fish sauce,5,Tbsp.,
+4,10,soy sauce,2,Tbsp.,(use gluten-free if needed)
+5,10,fresh lime juice,2,Tbsp.,(from 1 lime)
+6,10,creamy peanut butter,1,Tbsp.,
+7,10,sugar,3,Tbsp.,
+8,10,red chili flakes,0.5,tsp.,(dried)
+9,10,garlic,4,cloves,(finely chopped)
+10,10,fresh ginger,1,Tbsp.,(finely chopped)
+11,10,large shrimp,1,lb.,(peeled and deveined)
+12,10,salt,,,
+13,10,broccoli florets,0.666666667,lb.,
+14,10,green onions,4,,"(light and dark green parts, chopped into 1-inch pieces)"
+15,10,bean sprouts,1,cup,"(fresh, plus more for garnish if desired)"
+16,10,dry roasted peanuts,0.25,cup,(coarsely chopped)
+17,10,chopped fresh cilantro,0.5,cup,
+18,10,lime wedges,,,"(for serving, optional)"
+0,11,rice noodles,12,oz.,(flat)
+1,11,boiling water,,,
+2,11,vegetable oil,4,Tbsp.,
+3,11,cilantro,2,Tbsp.,(chopped)
+4,11,red chile,1,,"(small hot, seeded and finely chopped)"
+5,11,large shrimp,9,oz.,(peeled and deveined)
+6,11,shallots,4,,(finely chopped)
+7,11,large eggs,4,,(beaten)
+8,11,sugar,1,Tbsp.,
+9,11,oyster sauce,2,Tbsp.,
+10,11,Thai fish sauce,1,Tbsp.,
+11,11,fresh lime juice,2,Tbsp.,
+12,11,bean sprouts,9,oz.,
+13,11,scallions,4,,"(white and green parts, sliced)"
+14,11,unsalted roasted peanuts,1,cup,
+15,11,lime,1,,"(cut into 4 wedges, for garnish, optional)"
+0,12,brown sugar,2,Tbsp.,
+1,12,tamarind paste,0.25,cup,
+2,12,fish sauce,2,Tbsp.,
+3,12,water,3,Tbsp.,
+4,12,rice noodles,6,oz.,
+5,12,firm tofu,8,oz.,(cut into small pieces)
+6,12,shallots,2,,"(medium, minced)"
+7,12,garlic,3,cloves,(minced)
+8,12,dried shrimp,2,Tbsp.,(rinsed and chopped)
+9,12,daikon radishes,2,Tbsp.,"(sweet, chopped)"
+10,12,Sriracha sauce,1,Tbsp.,
+11,12,chinese chives,1,cup,(or garlic chives)
+12,12,bean sprouts,1,cup,(fresh)
+13,12,roasted peanuts,0.25,cup,(finely chopped)
+14,12,peanut oil,3,Tbsp.,
+15,12,shrimp shells,1,lb.,(removed and deveined if needed)
+16,12,eggs,2,,
+17,12,fresh cilantro,2,Tbsp.,(optional)
+18,12,chinese chives,1,cup,
+19,12,bean sprouts,1,cup,(fresh)
+20,12,roasted peanuts,0.25,cup,(chopped)
+21,12,lime wedges,,,
+22,12,Sriracha sauce,,,
+0,13,pad thai noodles,1,pkg.,
+1,13,raw sugar,2,Tbsp.,
+2,13,tamarind paste,1,tsp.,(in Asian/Indian food section)
+3,13,fish sauce,4,Tbsp.,
+4,13,rice vinegar,2,tsp.,
+5,13,minced ginger,0.5,Tbsp.,
+6,13,minced garlic,0.5,Tbsp.,
+7,13,shallot,0.5,Tbsp.,(minced)
+8,13,lemongrass,0.5,Tbsp.,(minced)
+9,13,peanut oil,,,
+10,13,large eggs,2,,
+11,13,cooked shrimp,2,oz.,
+12,13,extra firm tofu,1,cup,(diced)
+13,13,scallions,0.666666667,cup,(chopped)
+14,13,peanuts,0.5,cup,"(chopped, unsalted)"
+15,13,bean sprouts,0.5,cup,
+16,13,lime wedges,,,
+0,14,boneless chicken breast,0.75,lb.,(cut into small pieces)
+1,14,soy sauce,1.5,Tbsp.,
+2,14,japanese noodles,9,oz.,(or pad Thai)
+3,14,vegetable oil,2,Tbsp.,
+4,14,green onions,4,,"(sliced, divide the white from the green)"
+5,14,garlic,4,cloves,(minced)
+6,14,red chili,1,,(I used jalapeno sliced)
+7,14,ginger,1,Tbsp.,(peeled and grated)
+8,14,bean sprouts,3,cups,
+9,14,egg,1,,(slightly whisked)
+10,14,dry roasted peanuts,0.333333333,cup,(roughly chopped)
+11,14,lime,1,,(sliced into wedges)
+12,14,chicken stock,0.333333333,cup,
+13,14,rice vinegar,3,Tbsp.,(or white)
+14,14,lime juice,1,Tbsp.,
+15,14,light brown sugar,4,Tbsp.,
+16,14,soy sauce,1,Tbsp.,
+17,14,black pepper,0.125,tsp.,
+0,15,rice noodles,8,oz.,"(dried, “Pad Thai”)"
+1,15,brown sugar,2,Tbsp.,
+2,15,fresh lime juice,2,Tbsp.,(plus wedges for serving)
+3,15,soy sauce,3,Tbsp.,
+4,15,Sriracha sauce,1,,(squirt)
+5,15,sesame oil,2,tsp.,(or vegetable)
+6,15,scallions,3,,"(white and green parts, separated and thinly sliced)"
+7,15,garlic clove,1,,(minced)
+8,15,large eggs,2,,"(lightly beaten, optional)"
+9,15,fresh cilantro,0.5,cup,
+10,15,roasted salted peanuts,0.25,cup,(chopped)
+11,15,bean sprouts,0.5,cup,
+12,15,shredded carrots,0.5,cup,
+0,16,vegetable oil,,,
+1,16,boneless skinless chicken thighs,2,lb.,(cut into bite-sized strips)
+2,16,salt,,,
+3,16,pepper,,,
+4,16,firm tofu,8,oz.,"(cut into cubes, optional)"
+5,16,eggs,2,,(lightly beaten)
+6,16,sesame oil,1,Tbsp.,
+7,16,rice noodles,8,oz.,(flat)
+8,16,chili paste,2,Tbsp.,(or chili garlic sauce)
+9,16,low sodium soy sauce,2,Tbsp.,
+10,16,fish sauce,2,tsp.,
+11,16,bean sprouts,8,oz.,(divided)
+12,16,jalapeño,1,,(sliced)
+13,16,green onions,3,,(sliced thin)
+14,16,peanuts,0.5,cup,
+15,16,thai basil,2,Tbsp.,"(chopped fresh, and cilantro)"
+16,16,crushed red pepper,,,(to taste)
+17,16,limes,2,,(cut into quarters lengthwise)
+0,17,zucchini,2,,(medium)
+1,17,olive oil,2,Tbsp.,(divided)
+2,17,shrimp,0.5,lb.,"(peeled and de-veined, or what ever protein you prefer)"
+3,17,garlic,3,cloves,(minced or crushed)
+4,17,red bell pepper,0.5,,(seeded and sliced thin)
+5,17,green onions,3,,"(sliced in 1"" pieces)"
+6,17,large egg,1,,
+7,17,bean sprouts,2,cups,
+8,17,roasted peanuts,0.333333333,cup,
+9,17,cilantro,,,(optional)
+10,17,rice vinegar,2,Tbsp.,(or distilled white vinegar)
+11,17,fish sauce,2,Tbsp.,(or more to taste)
+12,17,ketchup,3,Tbsp.,
+13,17,brown sugar,1,tsp.,
+14,17,cayenne pepper,0.5,tsp.,
+15,17,chili garlic sauce,1,tsp.,(or more to taste)
+0,18,light brown sugar,4,Tbsp.,
+1,18,fresh lime juice,3,Tbsp.,(about 2-3 limes)
+2,18,soy sauce,4,Tbsp.,
+3,18,water,0.25,cup,
+4,18,rice noodles,8,oz.,"(wide Pad Thai, also called Banh Pho)"
+5,18,vegetable oil,2,Tbsp.,
+6,18,crushed red pepper,,,(as much as you like)
+7,18,garlic,6,cloves,(minced)
+8,18,broccoli florets,2,cups,
+9,18,carrots,2,,"(medium, peeled and chopped into rounds)"
+10,18,tofu,1,cup,"(cubed fried, available at Asian stores)"
+11,18,bean sprouts,1,handful,
+12,18,green onions,2,,(chopped)
+13,18,peanuts,3,Tbsp.,"(roasted, chopped)"
+14,18,cilantro sprigs,4,,(chopped)
+15,18,lime,0.5,,(cut into wedges)
+0,19,rice noodles,6,oz.,
+1,19,vegetable oil,3,Tbsp.,(neutral flavor – not sesame or olive)
+2,19,sugar,2,Tbsp.,(Palm or Brown)
+3,19,garlic,4,cloves,(Minced)
+4,19,fish sauce,4,tsp.,(Nam Pla Use soy sauce for vegetarian recipes or as a substitute)
+5,19,eggs,2,,
+6,19,tamarind paste,1,Tbsp.,(or white vinegar)
+7,19,firm tofu,0.5,cup,(cut into 1/2 inch strips)
+8,19,shrimp,12,,"(Medium Sized, Washed and De-veined, optional)"
+9,19,ground red pepper,0.5,tsp.,
+10,19,roasted peanuts,2,Tbsp.,(Ground)
+11,19,bean sprouts,,,(optional)
+12,19,lime wedges,,,(optional)
+0,20,rice noodles,454,grams,"(flat , cooked to package directions & rinsed)"
+1,20,ketchup,0.25,cup,
+2,20,peanut butter,0.25,cup,
+3,20,lime juice,2,Tbsp.,
+4,20,soy,1,Tbsp.,(sauce)
+5,20,fish sauce,1,Tbsp.,"( , optional)"
+6,20,garlic cloves,2,,(minced)
+7,20,cornstarch,1,Tbsp.,
+8,20,chicken broth,0.333333333,,"(carton, about 1 ¼ cups/310 mL Campbell's® 30% Less Sodium Ready To Use Thai)"
+9,20,canola oil,2,tsp.,
+10,20,medium eggs,2,,(well beaten)
+11,20,chicken breast,1,,"(large , thinly sliced)"
+12,20,bean sprouts,1,cup,
+13,20,chopped fresh cilantro,0.5,cup,"(to garnish, optional)"
+14,20,roasted peanuts,0.25,cup,"(chopped, to garnish, optional)"
+15,20,lime wedges,4,,"(to garnish, optional)"
+0,21,thai noodles,8,oz.,(preferably A Taste of Thai or Thai Kitchen brands)
+1,21,asian fish sauce,2,Tbsp.,
+2,21,light brown sugar,3,Tbsp.,
+3,21,fresh lime juice,0.25,cup,(plus wedges for serving)
+4,21,Thai bird chiles,2,,"(or 1 serrano with seeds, stemmed and thinly sliced)"
+5,21,canola oil,0.25,cup,
+6,21,shallots,3,,"(large, thinly sliced, 1 cup)"
+7,21,large garlic cloves,3,,(minced)
+8,21,medium shrimp,12,oz.,(shelled and deveined)
+9,21,large eggs,2,,(beaten)
+10,21,scallions,4,,(thinly sliced)
+11,21,roasted peanuts,,,
+12,21,bean sprouts,,,
+13,21,chopped cilantro,,,
+0,22,light coconut milk,15,oz.,
+1,22,ketchup,0.25,cup,(good-quality)
+2,22,granulated sugar,2,Tbsp.,(natural)
+3,22,lime,1,,
+4,22,reduced sodium soy sauce,3,Tbsp.,(or tamari)
+5,22,rice noodles,8,oz.,(flat)
+6,22,peanut oil,1.5,Tbsp.,
+7,22,extra firm tofu,8,oz.,"(blotted and cut into short, narrow strips)"
+8,22,garlic,4,cloves,(minced)
+9,22,mung bean sprouts,8,oz.,(fresh)
+10,22,scallions,6,,"(white and green parts, thinly sliced)"
+11,22,chili paste,0.5,tsp.,"(Thai red, dissolved in a little water)"
+12,22,Sriracha sauce,,,
+13,22,hot red pepper flakes,,,
+14,22,chopped fresh cilantro,0.5,cup,(to taste)
+15,22,peanuts,0.5,cup,(chopped)
+16,22,lime wedges,,,"(for garnish, optional)"
+0,23,chicken meat,1.5,lb.,(cut into small 1” chunks)
+1,23,extra virgin coconut oil,5,Tbsp.,"(more if you use breast meat, less if you use thigh meat)"
+2,23,garlic,5,cloves,(finely chopped)
+3,23,fish sauce,3,Tbsp.,
+4,23,coconut aminos,1,Tbsp.,(or use 1 more Tbsp fish sauce)
+5,23,fresh lime juice,4,Tbsp.,(or use a good quality bottled Lime Juice)
+6,23,coconut vinegar,0.5,Tbsp.,(Apple Cider Vinegar would work too)
+7,23,chopped fresh cilantro,5,Tbsp.,
+8,23,green onions,5,,(finely chopped)
+9,23,broccoli slaw,12,oz.,
+10,23,carrots,2,,"(medium, cut into thin julienne strips)"
+0,24,rice noodles,454,grams,(thickness of your choice)
+1,24,vegetable oil,2,Tbsp.,
+2,24,tamari,2,Tbsp.,
+3,24,cabbage,0.5,,"(thinly sliced, green or red, or a mixture)"
+4,24,carrots,3,,(thinly sliced on a diagonal)
+5,24,bean sprouts,1,cup,
+6,24,tofu,175,grams,"(firm or extra firm, drained and cubed)"
+7,24,sugar,1.5,Tbsp.,
+8,24,garlic,1,clove,(minced)
+9,24,vegetable oil,2,Tbsp.,
+10,24,tamari,1,Tbsp.,
+11,24,water,3,Tbsp.,
+12,24,chilli flakes,0.5,tsp.,
+13,24,peanuts,0.25,cup,(chopped)
+14,24,sweet chili sauce,,,(to top)
+15,24,green onions,,,"(sliced for garnish, optional)"
+0,25,rice noodles,100,grams,"(Pad Thai, flat rice stick noodles 3-5 mm wide)"
+1,25,fish sauce,2,Tbsp.,
+2,25,tamarind puree,2,Tbsp.,
+3,25,palm sugar,2,Tbsp.,(or brown sugar)
+4,25,oyster sauce,1,Tbsp.,
+5,25,chili powder,0.25,tsp.,(ground)
+6,25,cooking oil,3,Tbsp.,
+7,25,garlic cloves,2,,(minced)
+8,25,shallot,1,Tbsp.,(chopped)
+9,25,large shrimp,100,grams,"(peeled, deveined, or sliced chicken)"
+10,25,firm tofu,60,grams,(cut into thin sticks)
+11,25,eggs,2,,
+12,25,bean sprouts,1,cup,
+13,25,garlic chives,2,Tbsp.,(cut into 1-inch pieces)
+14,25,ground chili,,,
+15,25,sugar,,,
+16,25,condiments,,,
+17,25,chopped peanuts,,,
+18,25,lime,,,
+0,26,brown rice noodles,5,oz.,
+1,26,shredded carrots,0.5,cup,
+2,26,snap peas,0.5,cup,
+3,26,garlic chives,0.25,cup,(roughly chopped)
+4,26,bean sprouts,1,cup,
+5,26,cilantro,0.25,cup,(roughly chopped)
+6,26,peanuts,2,Tbsp.,(crushed)
+7,26,avocado oil,1,Tbsp.,(or sunflower oil)
+8,26,sauce,,,
+9,26,fish sauce,1.5,Tbsp.,
+10,26,honey,1.5,Tbsp.,
+11,26,oyster sauce,1,Tbsp.,
+12,26,lime,0.5,,
+13,26,chilli,1,,"(Thai, finely chopped)"
+0,27,brown rice noodles,8,oz.,
+1,27,tomato paste,4,Tbsp.,(unsalted)
+2,27,apple cider vinegar,4,Tbsp.,
+3,27,honey,3,Tbsp.,
+4,27,Thai fish sauce,2,Tbsp.,
+5,27,fresh lime juice,1,Tbsp.,
+6,27,ground cayenne pepper,0.125,tsp.,
+7,27,olive oil cooking spray,,,
+8,27,egg white,1,,(whisked)
+9,27,green cabbage,2,cups,(chopped)
+10,27,bean sprouts,1,cup,
+11,27,green onions,2,,(julienned or thinly sliced lengthwise)
+12,27,large carrot,1,,(peeled and julienned or cut into thin matchstick pieces)
+13,27,firm tofu,12,oz.,(cubed)
+14,27,cilantro,0.25,cup,(minced)
+15,27,peanuts,2,Tbsp.,"(unsalted, crushed)"
+16,27,lime wedges,,,(optional)
+17,27,cilantro,,,(optional)
+0,28,boiling water,0.75,cup,
+1,28,tamarind paste,2,Tbsp.,
+2,28,fish sauce,3,Tbsp.,
+3,28,rice vinegar,1,Tbsp.,
+4,28,palm sugar,3,Tbsp.,(or light brown sugar)
+5,28,cayenne pepper,1,tsp.,
+6,28,peanut oil,4,Tbsp.,(or vegetable oil)
+7,28,dried rice noodles,8,oz.,(Use the ones that look like linguine)
+8,28,large eggs,2,,
+9,28,table salt,0.25,tsp.,
+10,28,medium shrimp,12,oz.,"(peeled, deveined,, if desired. Thin slices of chicken or tofu make good substitutes)"
+11,28,garlic,4,cloves,(minced)
+12,28,shallot,1,,"(medium, minced)"
+13,28,unsalted roasted peanuts,6,Tbsp.,(chopped)
+14,28,bean sprouts,3,cups,
+15,28,scallions,5,,"(medium, green parts only, sliced thin)"
+16,28,cilantro leaves,0.25,cup,(optional)
+17,28,lime wedges,,,
+0,29,rice noodles,7,oz.,"(dry flat, 1/4 inch, 6 mm)"
+1,29,Asian fish sauce,0.25,cup,(2 fl. oz./60 ml)
+2,29,fresh lime juice,2,Tbsp.,
+3,29,sugar,2,Tbsp.,
+4,29,canola oil,2,Tbsp.,
+5,29,medium shrimp,0.5,lb.,(peeled and deveined)
+6,29,garlic cloves,3,,(minced)
+7,29,red pepper flakes,0.25,tsp.,
+8,29,eggs,3,,(lightly beaten)
+9,29,bean sprouts,2,cups,
+10,29,unsalted roasted peanuts,4,Tbsp.,(chopped)
+11,29,sliced green onions,4,Tbsp.,(thinly)
+12,29,chopped fresh cilantro,0.5,cup,
+13,29,chopped fresh mint,0.25,cup,
+0,30,dried rice noodles,4,oz.,
+1,30,shrimp,0.5,lb.,(peeled and deveined)
+2,30,tofu,0.25,lb.,(sliced)
+3,30,egg,1,,
+4,30,fish sauce,2,Tbsp.,
+5,30,juice concentrate,3,Tbsp.,(tamarind)
+6,30,sugar,2,Tbsp.,
+7,30,vinegar,1,Tbsp.,
+8,30,shallots,0.25,cup,(chopped)
+9,30,peanuts,0.333333333,cup,(crushed)
+10,30,chinese chives,,,"(or scallions, to taste)"
+11,30,bean sprouts,,,(to taste)
+12,30,dried chili,,,(to taste)
+13,30,lime wedges,,,(to serve)
+14,30,oil,,,(for pan)
+0,31,canola oil,2,Tbsp.,
+1,31,shirataki noodles,8,oz.,"(2 packets, tofu, can substitute bean thread noodles or any other regular noodle)"
+2,31,onion,0.5,,(chopped)
+3,31,broccoli florets,1,cup,
+4,31,red pepper,0.5,,(cut into strips)
+5,31,ginger garlic paste,1,tsp.,
+6,31,tofu,0.5,cup,
+7,31,eggs,2,,(optional)
+8,31,red pepper flakes,0.5,tsp.,
+9,31,coconut milk,0.333333333,cup,(I used canned coconut milk)
+10,31,peanut butter,3,Tbsp.,
+11,31,tamarind paste,2,Tbsp.,
+12,31,soy sauce,1,Tbsp.,
+13,31,rice vinegar,0.5,Tbsp.,
+14,31,sesame oil,0.5,Tbsp.,
+15,31,lemon juice,1,Tbsp.,
+16,31,splenda,2,tsp.,
+17,31,cumin powder,0.5,tsp.,
+18,31,ground coriander,0.5,tsp.,
+19,31,Sriracha sauce,0.5,Tbsp.,
+20,31,red pepper flakes,0.5,tsp.,
+21,31,green onions,0.25,cup,
+22,31,peanuts,2,Tbsp.,(crushed)
+23,31,lime wedges,,,
+0,32,rice noodles,200,grams,
+1,32,limes,2,,
+2,32,fish sauce,2,Tbsp.,
+3,32,brown sugar,1,tsp.,
+4,32,chili flakes,0.5,tsp.,
+5,32,oil,3,Tbsp.,
+6,32,eggs,2,,
+7,32,clove,1,,
+8,32,prawns,400,grams,
+9,32,peanuts,150,grams,
+10,32,leaves,,,(optional)
+11,32,mustard,,,(optional)
+0,33,vegetable oil,0.333333333,cup,(plain)
+1,33,dried rice noodles,4,oz.,"(wide, following the instructions on how to prepare dried rice noodles for Pad Thai)"
+2,33,sauce,0.666666667,cup,(~166mL prepared Pad Thai)
+3,33,shrimp paste,1,Tbsp.,"(in oil, มันกุ้งเสวย, as mentioned in my post on Pad Thai ingredients, optional)"
+4,33,garlic,8,grams,(peeled and finely chopped)
+5,33,shallot,1,,"(medium, 18g, peeled and finely chopped)"
+6,33,preserved radishes,0.25,cup,(finely-chopped)
+7,33,dried shrimp,0.25,cup,"(shell-on small, the kind specified in my post on Pad Thai ingredients)"
+8,33,tofu,0.75,cup,"(the firmest, you can find)"
+9,33,shrimp,220,grams,"(large, 31-35/lb, peeled and deveined)"
+10,33,large eggs,2,,(cracked into a bowl)
+11,33,chinese chives,7,stalks,
+12,33,bean sprouts,2,cups,
+13,33,sugar,,,
+14,33,red pepper flakes,,,
+15,33,fish sauce,,,
+16,33,limes,,,
+17,33,dry roasted peanuts,,,(Chopped)
+18,33,bean sprouts,,,"(Extra, soaked in acidulated water, to keep them fresh and crunchy)"
+19,33,chive,,,"(Chinese, stalks)"
+20,33,banana blossom,,,(trimmed according to the instructions in my post on Pad Thai ingredients)
+0,34,kelp noodles,0.5,pkg.,
+1,34,purple cabbage,0.5,head,
+2,34,carrots,2,,(grated)
+3,34,zucchini,1,,(spiralised)
+4,34,spring onions,2,,
+5,34,yellow bell pepper,1,,(red/)
+6,34,cilantro,1,bunch,
+7,34,sesame seeds,,,
+8,34,lime wedges,,,(for serving)
+9,34,cashews,0.5,cup,(soaked)
+10,34,ginger root,1,inch,(peeled)
+11,34,garlic,1,clove,
+12,34,chili,1,tsp.,
+13,34,tamari sauce,2,Tbsp.,
+14,34,agave,1,Tbsp.,
+15,34,limes,1,,
+16,34,ground coriander,1,tsp.,
+17,34,water,0.5,cup,
+18,34,cashews,1,handful,
+19,34,tamari sauce,0.5,cup,
+0,35,rice noodles,8,oz.,"(dried wide, flat)"
+1,35,fresh lime juice,0.25,cup,"(plus lime wedges for serving, 3 limes)"
+2,35,soy sauce,3,Tbsp.,(or fish sauce)
+3,35,chili sauce,1,Tbsp.,(such as Sriracha)
+4,35,dark brown sugar,1,Tbsp.,(packed)
+5,35,vegetable oil,2,Tbsp.,
+6,35,large eggs,2,,(lightly beaten)
+7,35,firm tofu,14,oz.,"(drained, thinly sliced, and patted dry)"
+8,35,carrots,2,,"(medium, peeled and shredded)"
+9,35,garlic cloves,2,,(minced)
+10,35,scallions,8,,(white and green parts separated and thinly sliced)
+11,35,coarse salt,,,
+12,35,roasted salted peanuts,2,Tbsp.,(chopped)
+13,35,cilantro leaves,0.25,cup,(fresh)
+0,36,brown rice noodles,8,oz.,(pad Thai style)
+1,36,fresh lime juice,0.5,cup,
+2,36,reduced sodium soy sauce,0.333333333,cup,(or tamari  )
+3,36,coconut sugar,0.25,cup,
+4,36,sambal oelek,3,Tbsp.,
+5,36,fish sauce,2,Tbsp.,
+6,36,safflower oil,1,Tbsp.,(divided     )
+7,36,"boneless, skinless chicken breast",12,oz.,(cut into bite-size pieces )
+8,36,garlic,1,clove,(minced )
+9,36,red bell pepper,1,,(thinly sliced and cut into 1-inch-long strips )
+10,36,large eggs,2,,(beaten    )
+11,36,sliced green onions,0.25,cup,(thinly)
+12,36,chopped fresh cilantro,0.25,cup,(coarsely)
+13,36,unsalted peanuts,2,Tbsp.,(chopped raw)
+0,37,rice noodles,10,oz.,(Thai)
+1,37,"boneless, skinless chicken breasts",1,lb.,(sliced into small strips)
+2,37,vegetable oil,2,Tbsp.,
+3,37,dark brown sugar,0.25,cup,(packed)
+4,37,soy sauce,0.25,cup,
+5,37,rice vinegar,2,Tbsp.,
+6,37,lime juice,1,Tbsp.,
+7,37,fish sauce,1,Tbsp.,
+8,37,red bell pepper,1,,(sliced into thin strips and strips halved)
+9,37,matchstick carrots,1.5,cups,
+10,37,garlic,2,cloves,
+11,37,green onions,4,,"(whites minced, greens sliced into 1-inch pieces)"
+12,37,bean sprouts,2,cups,
+13,37,large eggs,3,,
+14,37,unsalted peanuts,0.5,cup,(roughly chopped)
+15,37,cilantro,0.333333333,cup,(chopped)
+16,37,red pepper flakes,,,(optional)
+17,37,sesame seeds,,,(optional)
+0,38,rice noodles,5,oz.,(pad Thai)
+1,38,vegetable oil,3,Tbsp.,
+2,38,large egg,1,,(room temperature)
+3,38,medium shrimp,6,,"(peeled, deveined, optional)"
+4,38,pressed tofu,2,Tbsp.,"(1x½x⅛-inch slices, bean curd)"
+5,38,radish,1,Tbsp.,"(sweet preserved shredded, rinsed, chopped into 1-inch pieces)"
+6,38,bean sprouts,1,cup,
+7,38,tamarind water,5,Tbsp.,
+8,38,tamarind water,5,Tbsp.,
+9,38,tamarind paste,2,Tbsp.,
+10,38,Thai fish sauce,1.5,Tbsp.,"(or more, nam pla)"
+11,38,simple syrup,1.5,Tbsp.,(preferably made with palm sugar)
+12,38,garlic chives,4,,(2 cut into 1-inch pieces)
+13,38,dried Thai chiles,0.5,tsp.,"(ground, divided)"
+14,38,unsalted peanuts,2,Tbsp.,"(crushed roasted, divided)"
+15,38,lime wedges,2,,
+0,39,flat rice sticks,120,grams,(wide)
+1,39,fish sauce,60,mL,
+2,39,tamarind water,60,mL,"(you can use tamarind concentrate, thinned with a little water)"
+3,39,palm sugar,60,grams,
+4,39,chilli powder,1,pinch,(to taste)
+5,39,groundnut oil,80,mL,
+6,39,garlic,2,cloves,(finely chopped)
+7,39,extra firm tofu,100,grams,(chopped into small cubes)
+8,39,prawns,8,,(large)
+9,39,large eggs,2,,(ready cracked)
+10,39,radish,25,grams,"(preserved salted, chopped)"
+11,39,dried shrimp,1,Tbsp.,(small)
+12,39,beansprouts,100,grams,
+13,39,chinese chives,4,stalks,(chopped)
+14,39,roasted peanuts,50,grams,(roughly chopped)
+15,39,sugar,,,(optional)
+16,39,lime wedges,,,(optional)
+17,39,chilli flakes,,,(optional)
+18,39,fish sauce,,,(optional)
+0,40,scallions,1,bunch,
+1,40,large eggs,4,,
+2,40,salted peanuts,0.333333333,cup,(roasted)
+3,40,pad thai noodles,8,oz.,(or stir-fry rice noodles)
+4,40,tamarind concentrate,0.25,cup,(or 2 Tbsp. tamarind paste mixed with 2 Tbsp. water)
+5,40,dark brown sugar,3,Tbsp.,
+6,40,fish sauce,2,Tbsp.,
+7,40,chili garlic sauce,2,tsp.,"(such as sambal oelek or Sriracha, plus more for serving)"
+8,40,vegetable oil,3,Tbsp.,
+9,40,mung bean sprouts,2,cups,
+10,40,lime wedges,,,(for serving)
+0,41,boneless pork loin,2,oz.,"(cut into 1/4-inch slices, then into 1 1/2-inch pieces)"
+1,41,sugar,1,tsp.,
+2,41,tamarind concentrate,2,Tbsp.,
+3,41,soy sauce,2,Tbsp.,
+4,41,Thai fish sauce,2,Tbsp.,
+5,41,peanut oil,4,Tbsp.,(or safflower oil)
+6,41,garlic cloves,3,,(minced)
+7,41,pressed tofu,3,oz.,"(cut into 1/4-inch slices, then into 1 1/2-inch pieces)"
+8,41,large eggs,3,,(lightly beaten)
+9,41,coarse salt,,,
+10,41,rice stick noodles,8,oz.,(dried)
+11,41,bean sprouts,8,oz.,"(rinsed and drained, about 4 cups)"
+12,41,scallions,3,,"(trimmed, flattened with the side of cleaver, and cut into 1 1/2-inch pieces)"
+13,41,dried shrimp,1,Tbsp.,(chopped)
+14,41,radish,1,Tbsp.,"(salted, optional)"
+15,41,dry roasted peanuts,1,cup,(coarsely chopped)
+16,41,fresh cilantro leaves,0.5,cup,
+17,41,English cucumber,,,(thinly sliced)
+18,41,lettuce leaves,,,
+19,41,sugar,,,
+20,41,lime wedges,,,
+21,41,thai chile,,,"(vinegar sauce, for serving)"
+22,41,cayenne pepper,,,
+0,42,olive oil,2,Tbsp.,
+1,42,chicken breasts,2,,(diced)
+2,42,garlic,4,cloves,(minced)
+3,42,low sodium soy sauce,3,Tbsp.,(or tamari)
+4,42,sauce,0.5,cup,"(jarred pad thai, I like Thai Kitchen brand)"
+5,42,water,1.5,cups,
+6,42,rice noodles,0.5,pkg.,(thick)
+7,42,carrot,1,cup,(matchsticks)
+8,42,yellow pepper,0.5,,"(each red and, sliced)"
+9,42,green onions,4,,(sliced)
+10,42,peanuts,0.333333333,cup,(chopped)
+11,42,chopped cilantro,0.333333333,cup,(fresh)
+0,43,soy sauce,0.333333333,cup,
+1,43,Sriracha,2,Tbsp.,
+2,43,lime juice,0.25,cup,
+3,43,canola oil,0.25,cup,
+4,43,brown sugar,0.25,cup,
+0,44,noodles,12.5,oz.,"(choice 350g, or gluten-free rice noodles)"
+1,44,zucchini,1,,(spiralized into noodles)
+2,44,carrots,2,,(spiralized into noodles)
+3,44,red bell pepper,1,,(finely sliced)
+4,44,scallion,0.5,bunch,"(sliced, or 1 onion)"
+5,44,garlic cloves,4,,"(3-, minced)"
+6,44,mushrooms,10.5,oz.,"(300g, sliced)"
+7,44,firm tofu,7,oz.,"(200g, cut into cubes)"
+8,44,turmeric,0.5,tsp.,(optional)
+9,44,soy sauce,3,Tbsp.,"(2-, or tamari sauce)"
+10,44,peanut oil,3,Tbsp.,"(2-, or other oil)"
+11,44,chili flakes,1,tsp.,(or to taste)
+12,44,creamy peanut butter,0.25,cup,(60ml)
+13,44,coconut milk,0.25,cup,"(60ml, or other non-dairy milk)"
+14,44,soy sauce,0.25,cup,"(or Tamari, 60ml)"
+15,44,agave syrup,2,Tbsp.,"(1-, or other sweetener)"
+16,44,fresh lime juice,,,"(squeeze of, optional)"
+17,44,water,,,"(a bit of, only if needed)"
+18,44,roasted peanuts,0.5,cup,(crushed)
+19,44,fresh coriander,,,"(to garnish, optional)"
+20,44,sesame,,,(to sprinkle)
+0,45,tamarind paste,2,Tbsp.,"(or rice wine vinegar, see Recipe Note)"
+1,45,fish sauce,2,Tbsp.,
+2,45,palm sugar,2,Tbsp.,(or brown sugar)
+3,45,water,4,Tbsp.,(to thin)
+4,45,spaghetti squash,0.5,,"(medium, from a 3-pound squash)"
+5,45,peanut oil,2.5,Tbsp.,
+6,45,extra firm tofu,8,oz.,(diced)
+7,45,cornstarch,2,Tbsp.,
+8,45,yellow onion,0.5,,"(medium, thinly sliced)"
+9,45,large eggs,2,,(whisked)
+10,45,garlic,2,cloves,(minced)
+11,45,scallions,4,,(cut into 1- to 2-inch pieces)
+12,45,bean sprouts,0.5,cup,(plus more to serve)
+13,45,peanuts,2,Tbsp.,"(chopped, to serve)"
+14,45,lime wedges,,,(to serve)
+15,45,cilantro,,,(to serve)
+16,45,red pepper flakes,,,(to serve)
+0,46,pad thai noodles,200,grams,(/sticks)
+1,46,boneless chicken,100,grams,(cut into thin strips)
+2,46,red bell pepper,1,,(cut into thin strips)
+3,46,yellow pepper,1,,(cut into thin strips)
+4,46,onion,1,,"(medium-size, thinly sliced)"
+5,46,garlic cloves,4,,(fine chopped)
+6,46,cooking oil,2,Tbsp.,
+7,46,tamarind pulp,1,Tbsp.,(/paste)
+8,46,hoisin sauce,1,Tbsp.,
+9,46,brown sugar,2,Tbsp.,
+10,46,soy sauce,0.5,tsp.,
+11,46,fish sauce,0.5,tsp.,
+12,46,chilli sauce,1,tsp.,
+13,46,peanuts,2,Tbsp.,(roasted and crushed)
+14,46,lemon,1,whole,
+15,46,greens,1,Tbsp.,(chopped spring onion)
+16,46,bean sprouts,1,Tbsp.,"(mung, moong)"
+0,47,dried rice noodles,250,grams,
+1,47,rapeseed oil,2,tsp.,
+2,47,spring onions,6,,(chopped at an angle to 1cm pieces)
+3,47,garlic,3,cloves,(crushed)
+4,47,fresh ginger,3,cms,(grated)
+5,47,Thai chili,1,,(finely sliced)
+6,47,red pepper,1,,(finely chopped)
+7,47,courgette,1,,(cut into sticks)
+8,47,frozen broad beans,100,grams,
+9,47,pak choi,100,grams,"(baby, leaves separated)"
+10,47,beansprouts,200,grams,
+11,47,pineapple,75,grams,"(canned, drained, chopped small)"
+12,47,salt,1,Tbsp.,"(reduced-, gluten-free soy sauce)"
+13,47,fresh lime,1,,
+14,47,coriander,15,grams,(chopped)
+15,47,unsalted peanuts,50,grams,(roughly chopped and toasted)
+16,47,lime,1,,(cut into wedges&nbsp)
+0,48,brown sugar,6,Tbsp.,
+1,48,soy sauce,6,Tbsp.,
+2,48,rice vinegar,3,Tbsp.,
+3,48,chili garlic sauce,4,tsp.,(or sriracha sauce)
+4,48,lime,1,,
+5,48,rice noodles,12,oz.,(Thai)
+6,48,chicken breasts,1.5,lb.,(sliced into thin stripes)
+7,48,oil,1,Tbsp.,
+8,48,eggs,3,,(beaten)
+9,48,bean sprouts,2,cups,
+10,48,red bell pepper,1,,(sliced thin)
+11,48,matchstick carrots,1,cup,
+12,48,green onions,2,,
+13,48,garlic,2,cloves,
+14,48,cilantro,,,
+15,48,peanuts,,,
+0,49,rice stick noodles,12,oz.,
+1,49,chicken breast,1,lb.,(thinly sliced)
+2,49,sauce,1,cup,"(homemade or store bought pad thai, see link in post for homemade)"
+3,49,egg,1,,
+4,49,chopped peanuts,0.25,cup,
+5,49,green onions,0.25,cup,
+6,49,canola oil,2,Tbsp.,
+7,49,salt,0.25,tsp.,
+8,49,garlic powder,0.25,tsp.,
+9,49,lime,1,,
+0,50,rice noodles,100,grams,
+1,50,olive oil,1,tsp.,
+2,50,garlic,2,cloves,(peeled and finely chopped)
+3,50,chicken breast,200,grams,"(lean, sliced)"
+4,50,red chilli,1,,"(small, finely chopped)"
+5,50,vegetables,2,cups,"(your favourite, such as onion, shallots, green beans, carrot, capsicum, snow peas, bean sprouts, baby corn)"
+6,50,egg,1,,"(and 1 additional egg white, lightly beaten)"
+7,50,oyster sauce,2,tsp.,
+8,50,fish sauce,2,tsp.,
+9,50,limes,2,,(1 juiced and 1 quartered for serving.)
+0,51,ramen noodles,2,pkg.,(Oriental or Chicken flavors work best)
+1,51,vegetable oil,1.5,Tbsp.,
+2,51,frozen mixed vegetables,12,oz.,
+3,51,teriyaki sauce,0.25,cup,
+4,51,hot water,2,Tbsp.,
+5,51,creamy peanut butter,3,Tbsp.,
+6,51,Sriracha,0.25,tsp.,(or any hot sauce)
+0,52,water,1,cup,(plus more for soaking the noodles)
+1,52,rice noodles,10,oz.,(or ramen-style noodles)
+2,52,olive oil,2,Tbsp.,
+3,52,garlic,2,cloves,
+4,52,extra firm tofu,6,oz.,(drained and cut into chunks)
+5,52,soy sauce,4,Tbsp.,
+6,52,peanut butter,2,Tbsp.,
+7,52,limes,2,,
+8,52,sugar,3,Tbsp.,
+9,52,Sriracha,,,(to taste)
+10,52,sliced green onions,,,"(for garnish, optional)"
+11,52,peanuts,,,"(Chopped, for garnish, optional)"
+0,53,rice noodles,,,(or Linguine Pasta – 125 gms)
+1,53,chicken breast,250,grams,
+2,53,peanuts,2,Tbsp.,
+3,53,lime peel,0.25,tsp.,
+4,53,fish sauce,2,Tbsp.,
+5,53,brown sugar,3,tsp.,
+6,53,lime juice,3,tsp.,
+7,53,rice vinegar,3,tsp.,
+8,53,water,2,tsp.,
+9,53,chilli sauce,2,tsp.,
+10,53,garlic paste,0.5,tsp.,
+11,53,oil,1.5,Tbsp.,
+12,53,cloves,3,,(minced)
+13,53,egg,1,,
+14,53,spring onions,2,Tbsp.,
+15,53,coriander leaves,,,"(– handful, chopped)"
+16,53,bean sprouts,0.5,cup,
+0,54,pad thai noodles,8,oz.,
+1,54,red bell pepper,1,,
+2,54,carrots,2,,
+3,54,bean sprouts,1,cup,
+4,54,green onions,3,,(chopped)
+5,54,garlic,3,cloves,
+6,54,oil,2,Tbsp.,(I used olive)
+7,54,extra firm tofu,0.5,block,
+8,54,garlic powder,0.25,tsp.,
+9,54,turmeric,0.25,tsp.,
+10,54,salt,0.5,tsp.,
+11,54,low sodium soy sauce,3,Tbsp.,(/tamari)
+12,54,light brown sugar,2,Tbsp.,
+13,54,rice vinegar,1,Tbsp.,
+14,54,lime juice,1,Tbsp.,
+15,54,toasted sesame oil,2,tsp.,
+16,54,hot sauce,1,Tbsp.,(more or less to taste)
+17,54,creamy peanut butter,2,Tbsp.,(low or no salt)
+0,55,brown rice noodles,5,oz.,
+1,55,olive oil,2,Tbsp.,
+2,55,chicken breasts,1,lb.,(pounded thinly and cut into 1 inch pieces)
+3,55,red peppers,1,,(sliced into thin pieces)
+4,55,carrots,2,cups,(sliced into thin pieces)
+5,55,chopped onion,0.5,cup,
+6,55,garlic,2,cloves,(minced)
+7,55,bean sprouts,1,cup,
+8,55,eggs,2,,
+9,55,peanut butter,1,Tbsp.,
+10,55,honey,2,Tbsp.,
+11,55,lime juice,2,Tbsp.,
+12,55,rice wine vinegar,1.5,Tbsp.,
+13,55,fish sauce,0.25,cup,
+14,55,coconut aminos,0.25,cup,(or low sodium soy sauce)
+15,55,green onions,0.25,cup,(sliced thinly)
+16,55,peanuts,0.333333333,cup,(crushed or chopped)
+17,55,red pepper flakes,,,(optional)
+18,55,lime wedges,,,(optional)
+19,55,cilantro,,,(optional)
+0,56,extra firm tofu,14,oz.,"(pressed and cut into 3/4-inch cubes, *see note)"
+1,56,cornstarch,2,Tbsp.,
+2,56,salt,0.25,tsp.,
+3,56,grapeseed oil,1.5,Tbsp.,"(or any oil with high smoke point, more if needed)"
+4,56,tamari sauce,0.25,cup,"(low sodium, GF if preferred Sub soy sauce)"
+5,56,agave nectar,0.25,cup,(sub with maple syrup)
+6,56,vegetable broth,3,Tbsp.,(low sodium)
+7,56,rice vinegar,2,Tbsp.,
+8,56,peanut butter,2,Tbsp.,(creamy)
+9,56,Sriracha,1,Tbsp.,(more to taste)
+10,56,pad thai noodles,8,oz.,
+11,56,grapeseed oil,1,Tbsp.,(or any oil with high smoke point)
+12,56,green onions,4,,"(thinly sliced, separate white and green parts)"
+13,56,large carrots,2,,"(julienned, matchstick., about 1 cup)"
+14,56,garlic,3,cloves,(minced or crushed)
+15,56,mung bean sprouts,1,cup,
+16,56,cilantro,0.5,cup,(chopped)
+17,56,peanuts,0.333333333,cup,"(crushed or chopped, measured chopped)"
+18,56,limes,2,,(cut into wedges)
+0,57,rice noodles,0.5,,"(pack, approx 7 oz)"
+1,57,tofu,0.5,block,(cut into small cubes)
+2,57,vegetable oil,2,Tbsp.,
+3,57,water,0.25,cup,
+4,57,garlic clove,1,,(finely chopped)
+5,57,garlic chives,1,handful,(can sub regular chives)
+6,57,soy,2,Tbsp.,(suace)
+7,57,coconut sugar,1,Tbsp.,"(can sub agave, maple syrup)"
+8,57,lime,0.5,,
+9,57,bean sprouts,1,cup,
+10,57,green onion,1,,(chopped)
+11,57,peanuts,,,
+12,57,lime,,,
+13,57,cilantro,,,
+0,58,thin rice sticks,200,grams,(dry flat)
+1,58,onion,1,,(chopped)
+2,58,garlic,4,cloves,(crushed)
+3,58,red chilli,0.5,,"(or more if you prefer of, chopped)"
+4,58,lime,1,,
+5,58,demerara sugar,0.25,cup,
+6,58,fish sauce,2.5,Tbsp.,
+7,58,cooking oil,5,Tbsp.,
+8,58,garlic,3,cloves,"(crushed, 1 tbsp.)"
+9,58,onion,1,,(thinly sliced)
+10,58,chicken breast,1,,"(small, sliced thinly)"
+11,58,eggs,3,,(lightly beaten)
+12,58,spring onions,3,bunches,"(sliced diagonally, green and white parts separated)"
+13,58,light soy sauce,1,tsp.,
+14,58,prawns,20,,"(medium sized, peeled uncooked)"
+15,58,bean sprouts,0.5,cup,
+16,58,peanuts,0.25,cup,(chopped)
+17,58,coriander leaves,,,
+18,58,lime wedges,,,
+0,59,noodles,8,oz.,"(we used pad thai noodles, but feel free to substitute them for another type)"
+1,59,sesame oil,2,Tbsp.,
+2,59,eggs,2,,
+3,59,diced chicken breast,1,,
+4,59,shallots,0.25,cup,
+5,59,sauce,0.75,cup,"(pad thai, we used 1/8 cup each of fish sauce, rice vinegar, soy sauce, brown sugar, lime juice, and sriracha)"
+6,59,beansprouts,1,cup,
+7,59,peanuts,0.5,cup,(crushed)
+8,59,green onions,0.25,cup,
+9,59,cilantro,0.25,cup,
+0,60,tofu,8,oz.,(chicken breast or peeled prawns)
+1,60,salt,,,
+2,60,pad thai noodles,4,oz.,
+3,60,boiling water,,,
+4,60,noodles,,,
+5,60,peanut oil,2,Tbsp.,
+6,60,shallot,1,,"(large, finely diced)"
+7,60,garlic cloves,4,,(chopped)
+8,60,ginger,1,tsp.,"(chopped, optional)"
+9,60,eggs,2,,(whisked with a fork with a generous 3-finger pinch salt)
+10,60,fish sauce,3,Tbsp.,(or vegan fish sauce)
+11,60,sugar,3,Tbsp.,(or brown sugar)
+12,60,rice vinegar,3,Tbsp.,
+13,60,soy sauce,2,tsp.,(or Braggs)
+14,60,chili flakes,,,
+15,60,bean sprouts,,,
+16,60,chili flakes,,,
+17,60,scallions,,,
+18,60,roasted peanuts,,,
+19,60,lime,,,
+0,61,rice noodles,8,oz.,(flat)
+1,61,oil,3,Tbsp.,(divided)
+2,61,garlic,3,cloves,(finely minced)
+3,61,shrimp,8,oz.,"(uncooked, uncooked chicken, cut into bite-size pieces or extra firm tofu, cut into small cubes)"
+4,61,eggs,2,,(beaten)
+5,61,bean sprouts,1,cup,
+6,61,red bell pepper,1,,(thinly sliced)
+7,61,green onions,3,,(chopped)
+8,61,peanuts,0.5,cup,(crushed)
+9,61,limes,2,,(cut into wedges)
+10,61,chopped fresh cilantro,0.5,cup,
+11,61,fish sauce,3,Tbsp.,
+12,61,light soy sauce,1,Tbsp.,
+13,61,brown sugar,5,Tbsp.,
+14,61,rice vinegar,2,Tbsp.,
+15,61,Sriracha,1,Tbsp.,(or more to taste)
+16,61,creamy peanut butter,2,Tbsp.,(optional)
+0,62,extra firm tofu,14,oz.,
+1,62,brown rice noodles,8,oz.,(or white)
+2,62,rice paper wrappers,10,,"(brown or white, I love Banh Trang brand)"
+3,62,sliced carrots,2,cups,(thinly)
+4,62,fresh cilantro,1,handful,
+5,62,tamarind concentrate,3,Tbsp.,(I love this brand)
+6,62,tamari soy sauce,3,Tbsp.,(+ more for tofu)
+7,62,coconut sugar,4,Tbsp.,"(or maple syrup, or sub brown sugar or honey if not vegan)"
+8,62,lime,0.5,,"(juiced, ~1 Tbsp, 15 ml)"
+9,62,garlic chili sauce,2,tsp.,(I love this brand + more for tofu)
+10,62,peanut sauce,,,(/ Almond Sauce / Cashew Sauce)
+11,62,Sriracha,,,
+0,63,noodles,,,(& Veg)
+1,63,zucchini,,,
+2,63,butternut squash,,,
+3,63,carrots,,,(julienne)
+4,63,bean sprouts,,,
+5,63,sauce,,,(Pad Thai)
+6,63,soy sauce,0.25,cup,
+7,63,maple syrup,0.25,cup,(or Coconut Sugar)
+8,63,tomato paste,1,Tbsp.,
+9,63,rice vinegar,2,Tbsp.,
+10,63,lime juice,2,Tbsp.,
+11,63,sesame oil,2,tsp.,
+12,63,garlic,1,clove,
+13,63,chili paste,1,tsp.,
+14,63,nutritional yeast,2,Tbsp.,
+15,63,peanuts,,,
+16,63,sesame seeds,,,
+0,64,rice noodles,1,box,(Pad Thai or other)
+1,64,frozen vegetables,2,bags,"(I used Asian medley OR fresh, if you have time to prepare and steam them)"
+2,64,wok oil,1,Tbsp.,
+3,64,sesame oil,0.5,tsp.,(Pure)
+4,64,chopped garlic,0.5,tsp.,(1 clove)
+5,64,soy sauce,3,Tbsp.,(or gluten-free Tamari)
+6,64,Sriracha,2,Tbsp.,(or to taste)
+7,64,crushed pineapple,0.5,cup,(can also be tidbits – optional)
+8,64,lime juice,0.5,tsp.,
+9,64,ground ginger,1,dash,
+0,65,extra firm tofu,1,lb.,"(sliced ½"" thick)"
+1,65,peanut butter,1,Tbsp.,
+2,65,soy sauce,3,Tbsp.,(or tamari for gluten-free version)
+3,65,Sriracha,2,Tbsp.,"(1- ,or other hot sauce/paste)"
+4,65,rice vinegar,2,Tbsp.,(plain)
+5,65,toasted sesame oil,2,tsp.,
+6,65,ginger,2,tsp.,(freshly grated)
+7,65,brown rice noodles,8,oz.,(or rice noodles)
+8,65,oil,2,tsp.,"(divided, I used coconut oil)"
+9,65,red pepper,1,,(thinly sliced)
+10,65,white onion,0.5,,(thinly sliced)
+11,65,carrots,2,,(thinly sliced)
+12,65,Thai chili,1,,(finely chopped)
+13,65,peanuts,0.5,cup,(chopped)
+14,65,cilantro,0.5,cup,(finely chopped)
+15,65,soy sauce,3,Tbsp.,(or tamari for gluten-free version)
+16,65,fresh lime juice,3,Tbsp.,
+17,65,Sriracha,1,Tbsp.,"(or other spicy sauce, less if you don't want as much heat)"
+18,65,brown sugar,3,Tbsp.,
+19,65,vegetable broth,3,Tbsp.,
+20,65,garlic chili paste,1,tsp.,
+21,65,garlic cloves,2,,(minced)
+0,66,rice noodles,8,oz.,"(dried, wide and flat, I found them in the Asian-foods section)"
+1,66,brown sugar,2,Tbsp.,
+2,66,fresh lime juice,2,Tbsp.,(about 1 lime)
+3,66,soy sauce,3,Tbsp.,
+4,66,squirt,1,,"(about 1/8 teaspoon Sriracha chili sauce, optional, you can find this in the Asian-foods section. You can add more if you like things super spicy)"
+5,66,vegetable oil,2,tsp.,
+6,66,green onions,3,,(white and green parts separated and thinly sliced)
+7,66,garlic clove,1,,(minced)
+8,66,large eggs,2,,(lightly beaten)
+9,66,fresh cilantro,0.5,cup,
+10,66,roasted salted peanuts,0.25,cup,(chopped)
+0,67,extra firm tofu,14,oz.,"(cut into 1"" cubes)"
+1,67,pad thai noodles,8,oz.,"(cooked according to package instructions, *see note)"
+2,67,coconut oil,1.5,Tbsp.,(or olive oil)
+3,67,red onion,0.5,cup,(diced)
+4,67,garlic cloves,3,,(minced)
+5,67,red bell pepper,0.5,cup,(sliced)
+6,67,carrots,4,,"(peeled and cut julienne style. 2""- 3"" pieces)"
+7,67,tomato paste,1,Tbsp.,
+8,67,red pepper flakes,0.5,tsp.,(optional)
+9,67,green onion,1.5,cups,"(cut into 1-2"" pieces)"
+10,67,mung bean sprouts,1.5,cups,
+11,67,tamarind paste,3,Tbsp.,
+12,67,tamari sauce,0.25,cup,(low sodium & gluten-free)
+13,67,coconut sugar,0.25,cup,(sub brown sugar)
+14,67,vegetable broth,0.25,cup,(low sodium)
+15,67,peanuts,,,(Crushed)
+16,67,mung bean sprouts,,,
+17,67,green onion,,,"(cut 1-2"" pieces)"
+18,67,lime wedges,,,
+19,67,crushed red pepper,,,
+0,68,rice noodles,8,oz.,(flat)
+1,68,oil,3,Tbsp.,
+2,68,garlic,3,cloves,(minced)
+3,68,shrimp,8,oz.,"(uncooked, chicken, or extra-firm tofu, cut into small pieces)"
+4,68,eggs,2,,
+5,68,bean sprouts,1,cup,(fresh)
+6,68,red bell pepper,1,,(thinly sliced)
+7,68,green onions,3,,(chopped)
+8,68,dry roasted peanuts,0.5,cup,
+9,68,limes,2,,
+10,68,fresh cilantro,0.5,cup,(chopped)
+11,68,fish sauce,3,Tbsp.,
+12,68,low sodium soy sauce,1,Tbsp.,
+13,68,light brown sugar,5,Tbsp.,
+14,68,rice vinegar,2,Tbsp.,(* see note)
+15,68,Sriracha hot sauce,1,Tbsp.,"(or more, to taste)"
+16,68,creamy peanut butter,2,Tbsp.,(optional)
+0,69,linguini,,,
+1,69,chicken breasts,3,,(cut into bite sized pieces)
+2,69,olive oil,2,tsp.,
+3,69,broccoli,,,(chopped)
+4,69,red pepper,0.5,,(diced)
+5,69,carrots,,,(julienned)
+6,69,chicken broth,0.25,cup,
+7,69,lime,1,,"(juice, cut in half)"
+8,69,brown sugar,3,Tbsp.,
+9,69,rice vinegar,3,Tbsp.,
+10,69,red pepper flakes,0.5,tsp.,
+11,69,soy sauce,2,Tbsp.,
+12,69,peanut butter,3,Tbsp.,
+13,69,sesame oil,1,Tbsp.,
+14,69,garlic cloves,3,,(minced)
+15,69,garlic,2,tsp.,(minced)
+16,69,eggs,2,,
+17,69,peanuts,0.25,cup,(dry roasted unsalted)
+0,70,rice noodles,14,oz.,
+1,70,yellow bell pepper,1,,(thinly sliced)
+2,70,shredded carrots,1,,
+3,70,red cabbage,3,cups,(thinly sliced)
+4,70,edamame,2,cups,
+5,70,asparagus,6,spears,(chopped - you'll cook them with the rice noodles and soy beans)
+6,70,liquid aminos,0.666666667,cup,(or soy sauce)
+7,70,sesame oil,0.25,cup,
+8,70,peanut butter,2,Tbsp.,
+9,70,fresh ginger,1,tsp.,(peeled and grated )
+10,70,sesame seeds,,,
+11,70,chopped fresh cilantro,,,
+12,70,soy sauce,,,
+0,71,rice noodles,12,oz.,
+1,71,peanut oil,0.25,cup,
+2,71,sesame oil,0.25,cup,
+3,71,red pepper flakes,2,tsp.,(to taste)
+4,71,garlic cloves,3,,(finely minced)
+5,71,low sodium chicken broth,0.25,,
+6,71,gluten free soy sauce,0.25,cup,
+7,71,honey,0.25,cup,
+8,71,fish sauce,3,Tbsp.,
+9,71,large eggs,2,,(beaten)
+10,71,chicken,2,cups,"(Shredded, from about 2 breasts, I use a rotisserie chicken)"
+11,71,shredded carrots,1.5,cups,
+12,71,peanuts,0.5,cup,(chopped)
+13,71,scallions,,,"(thinly sliced for garnish, optional)"
+14,71,lime wedges,,,(for serving)
+0,72,broccoli,2,cups,"(chopped, finely chopped)"
+1,72,water,3,cups,(for soaking the noodles)
+2,72,peanut oil,3,Tbsp.,
+3,72,salt,0.25,tsp.,
+4,72,soy sauce,4,Tbsp.,(split into 1 Tbsp and 3 Tbsp)
+5,72,rice noodles,8,oz.,(Stir-fry)
+6,72,Sriracha sauce,1,Tbsp.,
+7,72,ginger,0.25,tsp.,(finely chopped)
+8,72,peanut butter,0.5,tsp.,
+9,72,brown sugar,2,tsp.,
+10,72,water,0.75,cup,(For the sauce)
+11,72,peanuts,0.25,cup,(unsalted)
+0,73,rice noodles,10,oz.,(Thai)
+1,73,boneless skinless chicken breasts,1,lb.,
+2,73,vegetable oil,2,Tbsp.,
+3,73,garlic,2,cloves,
+4,73,brown sugar,0.25,cup,
+5,73,large eggs,3,,
+6,73,rice vinegar,2,Tbsp.,
+7,73,fish sauce,4,Tbsp.,
+8,73,green onions,3,,"(chopped, divided)"
+9,73,carrots,2,,(sliced into thin strips)
+10,73,red bell pepper,1,,(sliced into thin strips)
+11,73,bean sprouts,1.5,cups,
+12,73,peanuts,0.25,cup,(crushed)
+13,73,lime,1,,
+14,73,cilantro,0.333333333,cup,(chopped)
+15,73,red pepper flakes,,,(optional)
+16,73,lemon,1,,
+17,73,cilantro,0.333333333,cup,(chopped)
+0,74,ramen noodles,2,pkg.,
+1,74,water,1.75,cups,
+2,74,teriyaki sauce,0.25,cup,
+3,74,vegetable oil,1,Tbsp.,
+4,74,creamy peanut butter,1.5,Tbsp.,
+5,74,oil,0.5,tsp.,(Fish)
+6,74,hot sauce,0.5,tsp.,
+7,74,garlic,1,Tbsp.,(Crush)
+8,74,frozen stir fry vegetables,12,oz.,
+0,75,rice noodles,4,oz.,(flat)
+1,75,medium zucchini,1,,(spiralized)
+2,75,large carrots,3,,(spiralized)
+3,75,firm tofu,15,oz.,(cubed)
+4,75,scallions,4,,"(thinly sliced, about 1 cup)"
+5,75,bean sprouts,3,cups,(well rinsed)
+6,75,sugar snap peas,1,cup,(trimmed and halved)
+7,75,garlic,4,cloves,(crushed)
+8,75,red chile,1,,(Thai)
+9,75,canola oil,2,Tbsp.,(for frying)
+10,75,liquid aminos,0.25,cup,(or soy sauce)
+11,75,water,0.25,cup,
+12,75,tomato paste,0.25,cup,
+13,75,rice vinegar,2,Tbsp.,
+14,75,agave,2,Tbsp.,(or other liquid sweetener)
+15,75,crushed red pepper flakes,0.5,tsp.,
+16,75,lime,1,,(cut into wedges)
+17,75,chopped fresh cilantro,0.5,cup,
+18,75,chopped almonds,4,Tbsp.,"(or peanuts, optional)"
+0,76,peanut butter,0.25,cup,
+1,76,water,0.25,cup,
+2,76,soy sauce,3,Tbsp.,
+3,76,brown sugar,2,Tbsp.,
+4,76,garlic,2,,"(plump cloves, minced)"
+5,76,Worcestershire sauce,1.5,tsp.,
+6,76,lime,0.5,,
+7,76,crushed red pepper,0.25,tsp.,
+8,76,pad Thai rice noodles,8,oz.,
+9,76,sesame oil,1,tsp.,(or canola oil)
+10,76,pork,1,lb.,"(strips, pork stroganoff or I used sirloin chops and sliced into strips)"
+11,76,canola oil,2,Tbsp.,
+12,76,garlic,3,cloves,(minced)
+13,76,bean sprouts,1,cup,
+14,76,carrots,1,cup,(julienned)
+15,76,red bell pepper,1,,(julienned)
+16,76,green onion,0.25,cup,(sliced thin)
+17,76,peanuts,0.25,cup,
+18,76,cilantro,2,Tbsp.,
+19,76,toasted sesame seeds,,,"(for garnish, optional)"
+0,77,chicken breasts,18,oz.,
+1,77,brown rice noodles,4,oz.,(flat)
+2,77,garlic paste,3,Tbsp.,
+3,77,red bell pepper,1,,
+4,77,mushrooms,1,cup,(chopped)
+5,77,green onions,1,cup,(chopped)
+6,77,bean sprouts,1.5,cups,
+7,77,fresh cilantro,,,
+8,77,rice vinegar,0.25,cup,(or fish sauce)
+9,77,coconut aminos,0.125,cup,(low sodium soy sauce)
+10,77,pepper sauce,0.125,cup,(Red chili)
+11,77,coconut sugar,2,Tbsp.,
+12,77,lime,1,,
+0,78,noodles,250,grams,
+1,78,fish sauce,3,Tbsp.,(; or soy sauce)
+2,78,sweet chili sauce,0.333333333,cup,(; or more to taste)
+3,78,peanut butter creamy,2,tsp.,(or crunchy)
+4,78,cooking oil,2,tsp.,
+5,78,garlic,3,cloves,(; minced)
+6,78,red chilies,1,,"(; seeds removed, optional)"
+7,78,chicken breast,1,,
+8,78,eggs,2,,(; lightly beaten)
+9,78,bean sprouts,100,grams,"(;, optional)"
+10,78,spring onions,2,,(; sliced)
+11,78,coriander,0.5,cup,"(cilantro; chopped, optional)"
+12,78,peanuts,0.5,cup,"(; chopped, optional, or use crunchy peanut butter)"
+13,78,lime,1,,"(;, optional)"
+0,79,prawns,200,grams,
+1,79,coriander,,,
+2,79,chopped leaves,1,stalk,
+3,79,thai noodles,200,grams,(packs straight-to-wok pad)
+4,79,beansprouts,85,grams,
+5,79,egg,1,,(beaten with a fork)
+6,79,lime,1,,(plus wedges to serve)
+7,79,fish sauce,1,Tbsp.,
+8,79,sugar,2,tsp.,
+9,79,roasted peanuts,1,Tbsp.,"(roughly chopped, to serve)"
+0,80,whole wheat spaghetti,4,oz.,(or brown rice spaghetti for gluten-free*)
+1,80,water,4,cups,
+2,80,natural peanut butter,0.25,cup,
+3,80,soy sauce,5,Tbsp.,(or tamari for gluten-free)
+4,80,pure maple syrup,0.25,cup,
+5,80,lime juice,2,Tbsp.,
+6,80,fresh ginger,1,tsp.,"(minced, 1/2 inch knob)"
+7,80,garlic,1,clove,(minced)
+8,80,red cabbage,0.5,head,"(or green, shredded, about 4 cups)"
+9,80,large carrot,1,,(shredded)
+10,80,snow peas,2,cups,
+11,80,green onions,3,,"(tender white and green parts only, chopped)"
+12,80,chopped fresh cilantro,,,"(for garnish, optional)"
+13,80,salted peanuts,,,"(Chopped, for garnish, optional)"
+0,81,zucchinis,4,,"(large, spiralized)"
+1,81,large carrots,1,,(spiralized)
+2,81,canola oil,2,Tbsp.,
+3,81,shrimp,0.5,,"(lamb, peeled and deveined)"
+4,81,garlic,4,cloves,(minced)
+5,81,green onion,0.5,cup,"(pieces sliced, optional)"
+6,81,unsalted dry roasted peanuts,0.25,cup,(crushed or chopped)
+7,81,low sodium soy sauce,2,Tbsp.,
+8,81,dark brown sugar,2,Tbsp.,(or honey)
+9,81,fish sauce,1,Tbsp.,(or Worcestershire sauce)
+10,81,fresh lime juice,1,Tbsp.,
+11,81,Sriracha sauce,1,Tbsp.,
+0,82,noodle,1,pkg.,"(Rice, 200g)"
+1,82,green onion,2,stalks,
+2,82,shallot,1,,(chopped)
+3,82,tamarind concentrate,2,Tbsp.,
+4,82,brown sugar,2,Tbsp.,(or Palm Sugar)
+5,82,dark soy sauce,0.5,Tbsp.,
+6,82,fish sauce,2.5,Tbsp.,
+7,82,chicken thigh,2,pieces,(cut into bite-sized pieces)
+8,82,peeled shrimp,6,,
+9,82,tofu,2,blocks,"(Marinated, cut into bite-sized pieces)"
+10,82,egg,2,,
+11,82,sprouts,1,cup,(Beat)
+12,82,roasted peanuts,1,Tbsp.,(Crushed)
+0,83,pad thai noodles,1,lb.,"(rice, I like Annie Chun’s)"
+1,83,soy sauce,0.25,cup,
+2,83,lime juice,0.25,cup,(the juice of one juicy lime)
+3,83,peanut butter,2,Tbsp.,
+4,83,Tahini,1,Tbsp.,
+5,83,Sriracha,0.5,tsp.,(or more to make this a 5 star dish!)
+6,83,liquid sweetener,0.25,cup,"(maple syrup, agave, etc.)"
+7,83,garlic cloves,4,,(minced)
+8,83,fresh ginger,1,piece,(minced)
+9,83,canola oil,1,Tbsp.,(for frying)
+10,83,vegetables,,,"(your choice of, to stir fry with, we like red cabbage, onions, carrots, and peas—you could use so many different vegetables)"
+11,83,peanuts,,,(optional)
+12,83,cilantro,,,(optional)
+0,84,garlic,2,cloves,
+1,84,peanut butter,1.5,Tbsp.,
+2,84,limes,2,,
+3,84,jalapeño,0.5,,(fresh)
+4,84,dates,3,,
+5,84,water,1,cup,
+6,84,shredded carrots,1,cup,
+7,84,red bell pepper,0.5,,(sliced)
+8,84,red cabbage,1.5,cups,(shredded)
+9,84,mung bean sprouts,0.5,cup,(save a little for topping)
+10,84,green onions,2,,(diced)
+11,84,rice noodles,1,box,(pad thai)
+12,84,cilantro,,,"(for garnish, optional)"
+13,84,chopped peanuts,,,"(for garnish, optional)"
+0,85,rice noodles,250,grams,(flat)
+1,85,garlic cloves,3,,(roughly chopped)
+2,85,fresh coriander,1,handful,"(chopped, leaves and stalks seperated)"
+3,85,red chilli,1,,"(seeds removed, roughly chopped)"
+4,85,limes,2,,(juice and zest)
+5,85,sunflower oil,2,Tbsp.,
+6,85,cooked chicken breast,1,,(skin removed and thinly sliced)
+7,85,spring onions,6,,(thinly sliced)
+8,85,bean sprouts,100,grams,(/3½oz)
+9,85,fish sauce,3,Tbsp.,
+10,85,light brown sugar,1,Tbsp.,(soft)
+11,85,large free range eggs,2,,(beaten)
+12,85,salted peanuts,1,handful,"(roughly chopped, to serve)"
+0,86,peanuts,1,cup,"(unsalted, roasted, skinless, roughly chopped)"
+1,86,ginger,1,piece,(peeled and minced)
+2,86,garlic cloves,2,,(chopped)
+3,86,seeds,2,,"(bird's-eye chiles, and ribs removed chopped)"
+4,86,"boneless, skinless chicken breasts",2,,
+5,86,firm tofu,1,cup,"(cubed, 1/2 inch cubes)"
+6,86,scallions,2,,(white and light green parts chopped)
+7,86,iceberg lettuce,0.5,head,"(shredded, about 3 cups)"
+8,86,seeds,2,,"(Thai Chiles, and ribs removed thinly sliced)"
+0,87,rice noodles,8,oz.,(cooked according to package directions)
+1,87,olive oil,3,Tbsp.,(divided)
+2,87,carrots,0.75,cup,(peeled and finely diced)
+3,87,green onions,5,,"(finely chopped, white and green parts separated)"
+4,87,garlic,2,cloves,(crushed)
+5,87,eggs,2,,(scrambled)
+6,87,soy sauce,0.25,cup,"(gluten free, or Tamari sauce)"
+7,87,brown sugar,3,Tbsp.,"(packed, or coconut sugar)"
+8,87,lime juice,3,Tbsp.,(freshly squeezed)
+9,87,Sriracha sauce,0.5,tsp.,(optional)
+10,87,chopped peanuts,0.25,cup,(salted)
+11,87,green onions,,,(chopped)
+0,88,zucchini,4,,(medium)
+1,88,coconut oil,1,tsp.,
+2,88,eggs,2,,(whisked)
+3,88,shredded carrots,1,cup,
+4,88,green onions,4,,(chopped)
+5,88,cilantro,3,Tbsp.,(chopped)
+6,88,cashews,0.333333333,cup,(toasted and chopped)
+7,88,lime wedges,4,,(for serving)
+8,88,almond butter,0.333333333,cup,
+9,88,coconut milk,0.25,cup,
+10,88,lime juice,2,tsp.,
+11,88,fresh ginger,1,inch,"(piece, peeled and minced)"
+12,88,garlic,2,cloves,(minced)
+13,88,apple cider vinegar,1,tsp.,
+0,89,rice sticks,8,oz.,(dry skinny)
+1,89,oil,2,Tbsp.,
+2,89,garlic,2,cloves,(minced)
+3,89,deveined shrimp,8,oz.,(shelled and)
+4,89,tofu,2,oz.,"(fried, cut into pieces)"
+5,89,eggs,2,,(lightly beaten)
+6,89,bean sprouts,6,oz.,
+7,89,chives,1,oz.,(or scallion cut into 2-inch lengths)
+8,89,tamarind,2,Tbsp.,
+9,89,warm water,0.333333333,cup,
+10,89,fish sauce,3.5,Tbsp.,
+11,89,tamarind juice,4,Tbsp.,(or 3 tablespoons Chinese rice vinegar or apple cider vinegar)
+12,89,chili powder,1.5,tsp.,
+13,89,sugar,2.5,Tbsp.,
+14,89,water,3,Tbsp.,
+0,90,spaghetti squash,1,,(large)
+1,90,olive oil,,,
+2,90,kosher salt,,,
+3,90,fresh ground black pepper,,,
+4,90,carrots,3,,
+5,90,red pepper,0.5,,
+6,90,garlic,4,cloves,
+7,90,green onions,5,,
+8,90,eggs,2,,
+9,90,chopped fresh cilantro,0.5,cup,
+10,90,sweet chili sauce,3,Tbsp.,
+11,90,soy sauce,3,Tbsp.,
+12,90,lime,1,,
+13,90,Sriracha,,,(optional)
+14,90,peanut oil,2,Tbsp.,
+15,90,bean sprouts,1.5,cups,(divided)
+16,90,roasted salted peanuts,0.5,cup,(chopped)
+0,91,rice noodles,0.25,lb.,
+1,91,low sodium soy sauce,2,Tbsp.,
+2,91,peanut butter,1,Tbsp.,
+3,91,chili sauce,1,Tbsp.,(sweet red)
+4,91,garlic powder,0.25,tsp.,
+5,91,ground ginger,0.25,tsp.,
+6,91,hot sauce,0.25,tsp.,
+7,91,bean sprouts,3,oz.,
+0,92,rice noodles,350,grams,(flat)
+1,92,reduced salt soy sauce,2,Tbsp.,
+2,92,honey,3,tsp.,
+3,92,lime juice,1.5,Tbsp.,
+4,92,fish sauce,2,tsp.,
+5,92,garlic,2,cloves,(sliced)
+6,92,red chilli,1,,"(large, seeded, chopped)"
+7,92,prawns,350,grams,(peeled)
+8,92,green onions,6,,(thickly sliced)
+9,92,snow peas,2,cups,
+10,92,small carrots,2,,(chopped)
+11,92,red capsicum,1,,(chopped)
+12,92,eggs,2,,(lightly beaten)
+13,92,sprouts,,,
+14,92,coriander,,,
+15,92,peanuts,,,"(chopped raw, to serve)"
+0,93,pad thai noodles,300,grams,"(dry rice, see note below)"
+1,93,deveined shrimp,0.5,lb.,(shelled and)
+2,93,eggs,3,,
+3,93,small carrot,1,,(julienned)
+4,93,green onion,2,stalks,"(cut into 2"" lengths)"
+5,93,garlic cloves,3,,(minced)
+6,93,light olive oil,2,Tbsp.,
+7,93,water,1,cup,
+8,93,tamarind paste,0.333333333,cup,(or lime juice)
+9,93,oyster sauce,0.333333333,cup,(see note below for gluten-free version)
+10,93,coconut sugar,3,Tbsp.,
+11,93,fish sauce,3,Tbsp.,
+12,93,soy sauce,3,Tbsp.,(tamari or liquid aminos for gluten-free)
+13,93,bean sprouts,,,
+14,93,chopped peanuts,,,
+15,93,dried chili flakes,,,(or chili powder)
+16,93,lime wedges,,,
+17,93,green onion,,,(Chopped)
+0,94,brown rice noodles,4,oz.,(rice sticks)
+1,94,extra virgin olive oil,2,tsp.,
+2,94,large shrimp,8,oz.,"(or medium, peeled and deveined, you can use either fresh shrimp or thawed frozen shrimp—if using thawed, lightly pat the shrimp dry prior to cooking)"
+3,94,garlic,2,cloves,(minced)
+4,94,large eggs,3,,
+5,94,bean sprouts,0.5,cup,
+6,94,grated carrots,0.5,cup,(freshly)
+7,94,green onions,2,,"(large or 3 small, finely chopped)"
+8,94,chopped peanuts,0.25,cup,(finely)
+9,94,chopped fresh cilantro,0.25,cup,
+10,94,lime wedges,,,(for serving)
+11,94,fish sauce,2,Tbsp.,"(**, gluten free if needed)"
+12,94,rice vinegar,1.5,Tbsp.,(I used seasoned)
+13,94,low sodium soy sauce,1,Tbsp.,
+14,94,water,2,Tbsp.,
+15,94,honey,1,Tbsp.,(plus additional 1-2 teaspoons to taste)
+16,94,chili garlic sauce,3,tsp.,
+0,95,rice noodles,2,cups,
+1,95,sesame oil,1,Tbsp.,
+2,95,garlic cloves,2,,(chopped)
+3,95,fresh ginger,2,Tbsp.,(chopped)
+4,95,onion,0.5,cup,(thinly sliced)
+5,95,carrot,0.5,cup,(thinly sliced)
+6,95,green beans,0.5,cup,(thinly sliced)
+7,95,red bell pepper,0.5,cup,(thinly sliced)
+8,95,coconut milk,0.5,cup,
+9,95,peanuts,0.25,cup,(chopped)
+10,95,curry powder,1,Tbsp.,
+11,95,salt,,,
+12,95,pepper,,,
+13,95,cilantro,2,Tbsp.,(chopped)
+14,95,scallions,0.25,cup,(thinly sliced)
+15,95,black sesame seeds,1,Tbsp.,
+0,96,rice noodles,8,oz.,
+1,96,salted peanuts,0.25,cup,(chopped)
+2,96,teas,0.5,,(freshly zested lime peel)
+3,96,fish sauce,3,Tbsp.,
+4,96,fresh lime juice,2,Tbsp.,
+5,96,dark brown sugar,2,Tbsp.,(packed)
+6,96,rice vinegar,4.5,,(teas)
+7,96,siracha,1,Tbsp.,
+8,96,vegetable oil,3,Tbsp.,
+9,96,boneless skinless chicken breasts,1,lb.,(cut into bite size strips)
+10,96,garlic cloves,6,,(minced)
+11,96,egg,1,,(lightly beaten)
+12,96,bean sprouts,1,cup,(fresh)
+13,96,scallions,0.5,cup,(sliced)
+14,96,fresh cilantro,2,Tbsp.,(snipped)
+0,97,rice noodles,1,lb.,"(about 1/4"" wide)"
+1,97,cooking oil,1,Tbsp.,(divided)
+2,97,shrimp,1,lb.,(peeled and deveined)
+3,97,egg,1,,(beaten)
+4,97,garlic,2,cloves,(finely minced)
+5,97,snow peas,0.25,lb.,(sliced diagonally lengthwise)
+6,97,bean sprouts,8,oz.,
+7,97,sauce,8,oz.,(prepared Pad Thai)
+8,97,water,1,Tbsp.,
+9,97,lime wedges,,,(optional)
+10,97,peanuts,,,(optional)
+11,97,sriracha hot chili sauce,,,(optional)
+12,97,fresh cilantro,,,(optional)
+0,98,lime juice,2,Tbsp.,
+1,98,garlic,1,clove,"(minced, about 1 teaspoon)"
+2,98,crushed red pepper flakes,0.5,tsp.,
+3,98,coconut aminos,1,Tbsp.,
+4,98,powdered ginger,0.25,tsp.,
+5,98,rice vinegar,0.5,tsp.,
+6,98,sunflower seed butter,0.25,cup,(I like Sunbutter; no sugar added)
+7,98,ground cayenne pepper,1,dash,(optional)
+8,98,coconut milk,0.25,cup,(canned)
+9,98,large eggs,2,,
+10,98,coconut aminos,2,tsp.,(or homemade substitute)
+11,98,coconut oil,3,tsp.,
+12,98,onion,0.5,,"(medium, thinly sliced, about 1/2 cup)"
+13,98,snap peas,1,cup,(thinly sliced lengthwise)
+14,98,spaghetti squash,2,cups,(cooked)
+15,98,chicken thighs,8,oz.,"(grilled, diced)"
+0,99,chili paste,1,Tbsp.,"(sambal oelek, red)"
+1,99,brown sugar,0.25,cup,(packed)
+2,99,water,2,Tbsp.,
+3,99,lime,1,,(halved)
+4,99,fish sauce,2,Tbsp.,
+5,99,ginger,1.5,tsp.,(grated)
+6,99,rice noodles,0.5,lb.,(bánh pho)
+7,99,canola oil,4,tsp.,(divided)
+8,99,extra firm tofu,1,pkg.,(cut into ½ inch cubes)
+9,99,large egg whites,2,,
+10,99,large egg,1,,
+11,99,garlic,3,cloves,(minced)
+12,99,red pepper,1,,"(or yellow, seeded and chopped)"
+13,99,jalapeño,1,,"(large, seeded and chopped)"
+14,99,green onions,0.75,cup,(chopped)
+15,99,bean sprouts,2,cups,(fresh)
+16,99,fresh cilantro,0.5,cup,(chopped and divided)
+17,99,roasted peanuts,0.333333333,cup,(chopped)
+0,100,rice sticks noodles,8,oz.,(dry skinny)
+1,100,oil,2,Tbsp.,
+2,100,garlic,2,cloves,(minced)
+3,100,boneless chicken breast,8,oz.,"(skinless and, sliced)"
+4,100,fried tofu,2,oz.,(cut into pieces)
+5,100,eggs,2,,(lightly beaten)
+6,100,bean sprouts,8,oz.,
+7,100,scallion,1,stalk,(cut into 2-inch lengths)
+8,100,roasted peanuts,1,Tbsp.,(crushed)
+9,100,lime,1,,(cut into wedges)
+10,100,fish sauce,3.5,Tbsp.,
+11,100,Chinese rice vinegar,3,Tbsp.,(preferred or apple cider vinegar)
+12,100,chili powder,1.5,tsp.,
+13,100,sugar,2.5,Tbsp.,
+14,100,water,3,Tbsp.,
+0,101,shiitake mushrooms,,,(dried sliced)
+1,101,rice stick noodles,,,(dried)
+2,101,oil,,,
+3,101,lemongrass,,,
+4,101,kaffir lime leaves,,,
+5,101,spring onions,,,
+6,101,garlic,,,
+7,101,mung bean sprouts,,,
+8,101,red chilli,,,
+9,101,soy sauce,,,
+10,101,sweet chilli sauce,,,
+11,101,lime juice,,,
+12,101,sesame oil,,,
+13,101,coconut milk,,,
+14,101,roasted peanuts,,,
+15,101,coriander,,,
+0,102,vegetable stock,0.25,cup,
+1,102,tamari sauce,3,Tbsp.,
+2,102,rice vinegar,3,Tbsp.,
+3,102,agave nectar,3,Tbsp.,
+4,102,tamarind paste,2,Tbsp.,
+5,102,cayenne pepper,1,,(+ teaspoon)
+6,102,garlic,1,clove,(minced)
+7,102,nori,0.5,sheet,"(/seaweed, optional)"
+8,102,rice noodles,,,"(Pad Thai, 8-10 oz.)"
+9,102,asparagus,12,,
+10,102,carrots,2,,
+11,102,red bell pepper,1,,
+12,102,yellow summer squash,2,,
+13,102,mung bean sprouts,1,cup,
+14,102,green onions,3,,
+15,102,tofu,8,oz.,
+16,102,peanut oil,2,Tbsp.,
+17,102,limes,3,,
+18,102,cilantro,0.333333333,cup,
+19,102,peanuts,,,(Crushed)
+20,102,sauce,,,"(Pad Thai, above)"
+0,103,wide rice noodles,6,oz.,
+1,103,canola oil,0.25,cup,
+2,103,large eggs,4,,(lightly beaten)
+3,103,kale,1,bunch,(chopped)
+4,103,lime juice,3,Tbsp.,
+5,103,Asian sweet chili sauce,0.25,cup,
+6,103,soy sauce,0.25,cup,(low sodium)
+7,103,carrots,2,,(peeled and grated)
+8,103,bean sprouts,1,cup,
+9,103,dry roasted peanuts,0.25,cup,(chopped)
+10,103,green onions,4,,(thinly sliced)
+11,103,fresh cilantro,2,Tbsp.,(chopped)
+0,104,rice noodles,4,oz.,(flat)
+1,104,canola oil,3,Tbsp.,(divided)
+2,104,chicken breast,0.5,lb.,(sliced into very thin strips)
+3,104,red bell pepper,0.5,,(halved and thinly sliced)
+4,104,carrots,0.75,cup,(shredded or julienned)
+5,104,garlic cloves,2,,(minced)
+6,104,egg,1,,(beaten)
+7,104,green onion,1,,(chopped)
+8,104,unsalted peanuts,0.25,cup,(roughly chopped)
+9,104,Cilantro leaves,2,Tbsp.,(chopped)
+10,104,packed brown sugar,2,Tbsp.,
+11,104,low sodium soy sauce,1,Tbsp.,
+12,104,fish sauce,1,Tbsp.,
+13,104,lime juice,1,Tbsp.,
+14,104,rice vinegar,1,Tbsp.,
+15,104,smooth peanut butter,1,Tbsp.,
+16,104,Sriracha,1,Tbsp.,(or another chili paste)
+17,104,ground ginger,0.25,tsp.,
+18,104,pepper,0.125,tsp.,
+0,105,whole wheat spaghetti,400,grams,
+1,105,vegetable broth,2,cups,
+2,105,water,2,cups,(or 4 cups of water)
+3,105,garlic,3,cloves,(very thinly sliced)
+4,105,peanut butter,2,Tbsp.,(unsweetened)
+5,105,dates,2,,"(finely chopped, or 1 tablespoon of sugar*)"
+6,105,tamarind paste,1,Tbsp.,
+7,105,soy sauce,1,Tbsp.,
+8,105,red pepper flakes,1,tsp.,
+9,105,ginger root,2,inches,(sliced very thinly)
+10,105,carrot,1,,"(large, peeled and cut in ""julienne"")"
+11,105,red bell pepper,1,,"(or green, sliced)"
+12,105,onion,1,,"(small, sliced)"
+13,105,broccoli florets,0.5,cup,(or small)
+14,105,mushrooms,0.5,cup,
+15,105,green onions,3,,(chopped)
+16,105,roasted salted peanuts,0.25,cup,(chopped)
+17,105,salt,,,
+18,105,pepper,,,
+19,105,roasted salted peanuts,0.25,cup,(chopped)
+20,105,lemon,1,,
+21,105,soy bean sprouts,0.5,cup,
+22,105,coriander,1,handful,(finely chopped)
+23,105,sriracha sauce,,,(or hot sauce)
+24,105,hoisin sauce,,,
+0,106,lime juice,3,Tbsp.,
+1,106,low sodium soy sauce,2.5,Tbsp.,
+2,106,rice vinegar,2.5,Tbsp.,
+3,106,honey,8,tsp.,
+4,106,cornstarch,1.5,tsp.,
+5,106,eggs,6,,(beaten)
+6,106,green onions,1,bunch,"(about 6 of, chopped, whites only, save the chopped greens for the topping!)"
+7,106,garlic,4,cloves,"(minced, I love using the garlic twist below!)"
+8,106,ground chicken,1,lb.,"(lean, or turkey)"
+9,106,low sodium soy sauce,2,Tbsp.,
+10,106,black pepper,,,
+11,106,coleslaw mix,16,oz.,"(bagged, whatever size bag your store has!)"
+12,106,onions,,,"(chopped greens, the leftover green part from above)"
+13,106,cilantro,,,(or skip it if you hate it!)
+14,106,Sriracha,,,(or chile-garlic paste if you prefer)
+15,106,peanuts,,,(1/4 cup chopped or 28 whole)
+16,106,lime wedges,,,
+0,107,noodles,1,pkg.,(shirataki fettuccini)
+1,107,fish sauce,1.5,Tbsp.,
+2,107,liquid aminos,1.5,Tbsp.,
+3,107,Swerve,2,Tbsp.,(or xylitol)
+4,107,blackstrap molasses,0.25,tsp.,(optional**)
+5,107,cayenne pepper,0.25,tsp.,(or red pepper flakes to taste)
+6,107,fresh lime juice,3,Tbsp.,(to taste)
+7,107,coconut oil,2,Tbsp.,(for cooking)
+8,107,garlic,2,cloves,(minced or ran through a press)
+9,107,shrimp,200,grams,"(fresh, or chicken)"
+10,107,eggs,2,,(lightly beaten)
+11,107,bean sprouts,30,grams,
+12,107,green onions,3,,(finely sliced)
+13,107,cilantro leaves,0.5,cup,"(fresh, torn)"
+14,107,unsalted peanuts,35,grams,(lightly toasted & roughly chopped)
+15,107,lime wedges,,,
+0,108,silken tofu,12,oz.,(extra-firm light)
+1,108,peanut butter,0.333333333,cup,(no-salt-added)
+2,108,lime juice,3,Tbsp.,
+3,108,garlic,4,cloves,(minced)
+4,108,crushed red pepper,0.5,tsp.,
+5,108,chopped onion,1,cup,
+6,108,frozen mixed vegetables,16,oz.,
+7,108,fresh baby spinach,4,cups,
+8,108,brown rice noodles,8,oz.,(wide)
+9,108,sea salt,,,(to taste)
+10,108,cucumber,1,,"(medium, thinly sliced)"
+11,108,shredded carrot,0.5,cup,
+12,108,sliced scallions,0.25,cup,
+13,108,Thai chile,1,,"(fresh, thinly sliced, optional)"
+14,108,lime,,,(cut into wedges)
+0,109,rice noodles,1,pkg.,
+1,109,zucchini,1,,(chopped)
+2,109,tofu,1,pkg.,
+3,109,edamame,0.5,cup,
+4,109,carrots,2,,(chopped)
+5,109,garlic cloves,3,,(chopped)
+6,109,green onions,2,,(chopped)
+7,109,bean sprouts,0.5,cup,(or more)
+8,109,peanuts,0.25,cup,(crushed)
+9,109,canola oil,1,Tbsp.,(or oil of your choice)
+10,109,cilantro,,,(optional)
+11,109,soy sauce,3,Tbsp.,
+12,109,fish sauce,1,Tbsp.,
+13,109,rice vinegar,1,Tbsp.,
+14,109,maple syrup,3,Tbsp.,(you can also use brown sugar or honey)
+15,109,peanut butter,4,Tbsp.,
+16,109,water,0.333333333,cup,
+17,109,lime,1,,
+0,110,spaghetti squash,6,cups,"(2 big squash, 1 small squash)"
+1,110,extra firm tofu,14,oz.,(diced)
+2,110,olive oil,1,Tbsp.,
+3,110,red onion,1,,(large)
+4,110,garlic cloves,4,,(minced)
+5,110,shredded carrots,1,cup,
+6,110,bean sprouts,1.5,cups,
+7,110,green onions,1,bunch,(chopped)
+8,110,unsalted peanuts,0.5,cup,"(chopped, plus 1 tbs. for garnish)"
+9,110,fish sauce,3,Tbsp.,
+10,110,apple cider vinegar,2,Tbsp.,
+11,110,peanut butter,0.5,Tbsp.,(I used extra chunky!)
+12,110,stevia,1,tsp.,(optional)
+13,110,lime,1,,
+14,110,red pepper flakes,2,tsp.,
+15,110,garlic clove,1,,(minced)
+0,111,chicken breast,1,lb.,
+1,111,freshly ground pepper,,,
+2,111,olive oil,1,Tbsp.,
+3,111,honey,1,Tbsp.,
+4,111,chili garlic sauce,2,tsp.,
+5,111,rice wine vinegar,3,Tbsp.,
+6,111,low sodium soy sauce,2,Tbsp.,
+7,111,peanut butter,1,Tbsp.,(natural no added sugar)
+8,111,water,0.25,cup,
+9,111,medium zucchini,1,,"(spiralized, about 1 cup)"
+10,111,medium carrots,2,,"(spiralized, about 1 cup)"
+11,111,pad thai brown rice noodles,1,cup,(cooked)
+12,111,bean sprouts,1,cup,
+13,111,cabbage,1,cup,(thinly sliced)
+14,111,lime,1,,(quartered)
+15,111,unsalted peanuts,0.25,cup,"(dry roasted, crushed)"
+16,111,chopped cilantro,2,Tbsp.,
+0,112,soy sauce,6,Tbsp.,(or Tamari sauce if you’re gluten-free)
+1,112,fish sauce,2,Tbsp.,
+2,112,rice vinegar,2,Tbsp.,
+3,112,brown sugar,3,Tbsp.,(or maple syrup)
+4,112,peanut butter,8,Tbsp.,
+5,112,water,0.666666667,cup,
+6,112,lime,1,,
+7,112,chicken breasts,2,,(large)
+8,112,garlic,3,cloves,
+9,112,green onions,6,,(chopped)
+10,112,cabbage,0.5,,"(a head of, chopped)"
+11,112,carrots,2,,(peeled and sliced)
+12,112,mini sweet peppers sliced,4,,
+13,112,chopped peanuts,0.25,cup,
+14,112,rice noodles,1,container,(I use Annie Chun’s rice noodles)
+15,112,toasted sesame oil,2,Tbsp.,
+16,112,bean sprouts,,,(optional.  I couldn’t find these anywhere in my area.)
+0,113,rice noodles,4,oz.,(uncooked thick)
+1,113,uncooked small shrimp,0.5,lb.,(peeled and deveined)
+2,113,canola oil,2,tsp.,
+3,113,onion,1,,"(large, chopped)"
+4,113,garlic clove,1,,(minced)
+5,113,egg,1,,(lightly beaten)
+6,113,coleslaw mix,3,cups,
+7,113,green onions,4,,(thinly sliced)
+8,113,rice vinegar,0.333333333,cup,
+9,113,sugar,0.25,cup,
+10,113,reduced sodium soy sauce,3,Tbsp.,
+11,113,fish sauce,2,Tbsp.,(or additional reduced-sodium soy sauce)
+12,113,chili garlic sauce,3,tsp.,
+13,113,salted peanuts,2,Tbsp.,(chopped)
+14,113,cilantro leaves,,,(Chopped fresh)
+0,114,rice sticks,125,grams,"(Chang's Pad Thai dried, Note 1)"
+1,114,tamarind puree,1.5,Tbsp.,(Note 2)
+2,114,brown sugar,3,Tbsp.,(packed)
+3,114,fish sauce,2,Tbsp.,(Note 3)
+4,114,oyster sauce,1.5,Tbsp.,(Note 4)
+5,114,vegetable oil,3,Tbsp.,
+6,114,onion,0.5,,"(sliced, brown, yellow)"
+7,114,garlic cloves,2,,(finely chopped)
+8,114,chicken breast,150,grams,"(or thigh, thinly sliced)"
+9,114,eggs,2,,(lightly whisked)
+10,114,beansprouts,1.5,cups,
+11,114,firm tofu,0.5,cup,"(cut into 3cm / 1 1/4"" batons, see photo)"
+12,114,garlic chives,0.25,cup,"(cut into 3cm / 1 1/4"" pieces)"
+13,114,chopped peanuts,0.25,cup,(finely)
+14,114,lime wedges,,,(essential)
+15,114,chilli pepper,,,"(Ground, optional)"
+16,114,beansprouts,,,(More)
+0,115,zucchinis,3,,(medium)
+1,115,large carrots,3,,
+2,115,green onions,2,,(chopped)
+3,115,purple cabbage,1,cup,(shredded)
+4,115,cauliflower florets,1,cup,
+5,115,mung bean sprouts,1,cup,"(or radish sprouts, spicy, optional)"
+6,115,peanuts,0.5,cup,"(crushed, optional)"
+7,115,fresh coriander,0.5,cup,"(chopped, /cilantro, optional)"
+8,115,Tahini,0.25,cup,
+9,115,almond butter,0.25,cup,"(or cashew butter, peanut butter)"
+10,115,tamari,0.25,cup,"(gluten-free, as required)"
+11,115,agave,2,Tbsp.,(or maple syrup)
+12,115,lime juice,2,Tbsp.,
+13,115,garlic,1,clove,(minced)
+14,115,ginger root,1,tsp.,(grated)
+0,116,fish sauce,0.25,cup,(60 ml/ 2 fl oz)
+1,116,coconut aminos,1,Tbsp.,"(or more fish sauce, 15 ml)"
+2,116,Sriracha,1,Tbsp.,(or sambal olek - you can make your own Sriracha)
+3,116,garlic,2,cloves,(crushed)
+4,116,almond butter,4,Tbsp.,"(or almond butter, 64 g/ 2.3 oz)"
+5,116,salt,,,
+6,116,pepper,,,
+7,116,erythritol,2,Tbsp.,"(or 5-7 drops liquid stevia, optional)"
+8,116,chicken thighs,500,grams,"(boneless and skinless, 17.6 oz)"
+9,116,shirataki noodles,2,,"(packs, 400 g/ 14.1 oz)"
+10,116,large eggs,4,,
+11,116,spring onions,2,,"(medium, 30 g/ 1.1 oz)"
+12,116,bean sprouts,2,cups,(100 g/ 3.5 oz)
+13,116,cilantro,0.25,cup,(chopped)
+14,116,flaked almonds,0.25,cup,"(toasted, 15 g/ 0.5 oz)"
+15,116,fresh lime juice,2,Tbsp.,(~ 1/2 lime + more for garnish)
+16,116,ghee,1,Tbsp.,"(or extra virgin coconut oil, you can make your own ghee, 70 g/ 2.5 oz)"
+17,116,red cabbage,2,cups,"(shredded, for garnish, 140 g/ 4.9 oz + 1.8 g net carbs per serving, optional)"
+0,117,toasted sesame oil,2.5,Tbsp.,(divided)
+1,117,sunflower butter,0.5,cup,(or sub creamy peanut butter if you aren't avoiding peanuts)
+2,117,lime,0.5,,
+3,117,coconut aminos,1,Tbsp.,(or sub soy sauce if you aren't avoiding soy)
+4,117,raw honey,3,Tbsp.,
+5,117,rice vinegar,1,tsp.,
+6,117,coconut milk,0.5,cup,(for the sauce)
+7,117,sweet potato,1,,"(spiralized, or julienned)"
+8,117,carrots,2,,"(large, spiralized, or juilienned)"
+9,117,diced red onion,0.25,cup,
+10,117,red bell pepper,0.5,,"(stem and seeds removed, then diced)"
+11,117,eggs,3,,
+12,117,coconut milk,1,Tbsp.,
+13,117,sunflower seeds,0.5,cup,
+14,117,red cabbage,0.5,cup,(diced)
+15,117,cilantro,0.25,cup,
+0,118,rice noodles,7,oz.,(thin flat)
+1,118,eggs,2,,
+2,118,sesame oil,1,tsp.,
+3,118,salt,,,
+4,118,white pepper,,,
+5,118,vegetable oil,1,Tbsp.,
+6,118,chicken,0.5,lb.,(cut into thin strips)
+7,118,shredded carrots,0.75,cup,
+8,118,green onions,3,,(chopped and divided)
+9,118,garlic,3,cloves,(pressed or minced)
+10,118,dry roasted peanuts,0.5,cup,(finely minced and divided)
+11,118,lime,1,,(cut into wedges)
+12,118,chopped fresh cilantro,,,
+13,118,brown sugar,0.25,cup,
+14,118,rice vinegar,2,Tbsp.,
+15,118,gluten,3,Tbsp.,"(free fish sauce, I like 2-1/2 T)"
+16,118,gluten free tamari sauce,2,Tbsp.,"(low-sodium, dish will not be GF if using traditional soy sauce)"
+17,118,Sriracha hot sauce,2,tsp.,(optional)
+0,119,mild olive oil,2,Tbsp.,(or other flavourless oil)
+1,119,peanut butter,0.25,cup,(crunchy organic)
+2,119,boiling water,0.25,cup,
+3,119,lime juice,2,Tbsp.,"(freshly squeezed, 1 to 2 limes)"
+4,119,soy sauce,2,Tbsp.,(light if you are watching your salt)
+5,119,light brown sugar,2,Tbsp.,(packed)
+6,119,rice noodles,7,oz.,(dried medium)
+7,119,green cabbage,1,,"(finely shredded, I like to use pointed or 'sweetheart' cabbage)"
+8,119,red pepper,1,,(finely sliced)
+9,119,carrots,4,,"(medium, finely grated)"
+10,119,peanuts,0.5,cup,"(finely chopped, divided)"
+0,120,spaghetti squash,4,cups,(Cooked)
+1,120,extra firm tofu,8,oz.,(Sliced)
+2,120,shredded carrots,0.5,cup,
+3,120,green onions,0.25,cup,
+4,120,garlic cloves,2,,(Minced)
+5,120,minced ginger,1,Tbsp.,
+6,120,coconut oil,1,Tbsp.,
+7,120,egg,1,,
+8,120,egg white,1,,
+9,120,bean sprouts,0.25,cup,
+10,120,cilantro,,,(optional)
+11,120,limes,,,(optional)
+12,120,almonds,,,(optional)
+13,120,peanut butter,2,Tbsp.,
+14,120,soy sauce,2,Tbsp.,
+15,120,white vinegar,1,Tbsp.,
+16,120,stevia,1,Tbsp.,(or Honey)
+17,120,lime juice,1,Tbsp.,
+18,120,chili paste,1,Tbsp.,(more or less depending on heat preference)
+0,121,fish sauce,3,Tbsp.,
+1,121,brown sugar,3,Tbsp.,
+2,121,chicken broth,3,Tbsp.,
+3,121,rice vinegar,2,Tbsp.,
+4,121,low sodium soy sauce,2,Tbsp.,
+5,121,Thai chili paste,1,tsp.,
+6,121,brown rice noodles,4,oz.,"(or half a box, Pad Thai noodles)"
+7,121,zucchini,2,,(large)
+8,121,carrots,2,,"(large, thick)"
+9,121,olive oil,2,Tbsp.,(divided)
+10,121,yellow onion,0.25,,(cut into lengthwise strips)
+11,121,garlic,2,cloves,(minced)
+12,121,eggs,2,,(lightly beaten)
+13,121,bean sprouts,1.5,cups,
+14,121,green onions,2,,"(chopped, divided)"
+15,121,roasted peanuts,0.5,cup,(chopped)
+16,121,fresh cilantro,0.25,cup,(chopped)
+0,122,spaghetti squash,1,,"(medium-sized, about 3-4 lbs)"
+1,122,avocado oil,1,Tbsp.,
+2,122,chicken breasts,1,lb.,"(about 2, diced)"
+3,122,shrimps,12,,"(large, cleaned and deveined)"
+4,122,garlic,2,cloves,(crushed)
+5,122,red onion,1,,"(small, diced)"
+6,122,mushrooms,2,,(thinly sliced)
+7,122,carrot,1,,(diced)
+8,122,bean sprouts,0.5,cup,
+9,122,scallions,4,,(thinly sliced)
+10,122,eggs,3,,(scrambled)
+11,122,coconut aminos,2,Tbsp.,
+12,122,rice vinegar,3,Tbsp.,
+13,122,coconut sugar,2,Tbsp.,"(optional, omit for Whole30 or keto)"
+14,122,red pepper flakes,1,tsp.,
+15,122,garlic powder,0.5,tsp.,
+16,122,chopped peanuts,,,"(for garnish, optional)"
+17,122,lime,,,"(for garnish, optional)"
+0,123,tamarind paste,0.25,cup,
+1,123,coconut sugar,1.5,Tbsp.,
+2,123,sriracha sauce,0.5,Tbsp.,(or to taste)
+3,123,reduced sodium tamari,1.5,Tbsp.,
+4,123,lime,0.5,,(small)
+5,123,reduced sodium chicken stock,0.25,cup,
+6,123,zucchini,4,,"(large, with ends removed)"
+7,123,large carrots,2,,(peeled with ends removed)
+8,123,olive oil,2,tsp.,(divided)
+9,123,eggs,2,,(beaten)
+10,123,boneless skinless chicken breasts,2,,"(large, sliced)"
+11,123,beansprouts,3,cups,
+12,123,salt,,,
+13,123,pepper,,,
+14,123,sliced green onions,2,Tbsp.,(finely)
+15,123,peanuts,0.25,cup,(finely chopped)
+16,123,lime wedges,,,(for serving)
+0,124,broccoli,1,head,
+1,124,sweet soy sauce,2.5,Tbsp.,
+2,124,soybean paste,1,Tbsp.,(liquid)
+3,124,low sodium soy sauce,1.5,tsp.,(plus more to taste)
+4,124,thick cut bacon,3,slices,(cut into 2-cm squares)
+5,124,garlic,4,cloves,(roughly chopped)
+6,124,chilli powder,0.5,tsp.,"(Thai, see page 153, or to taste)"
+7,124,chicken stock,125,mL,(plus more if needed)
+8,124,spaghetti,225,grams,"(cooked to al dente, drained, and oiled)"
+9,124,eggs,2,,(beaten)
+10,124,spring onions,2,,(cut into 2-cm lengths)
+0,125,olive oil,1,Tbsp.,
+1,125,extra firm tofu,0.5,block,
+2,125,carrot,1,,
+3,125,garlic,2,cloves,
+4,125,water,0.25,cup,
+5,125,brown rice noodles,4,oz.,
+6,125,frozen broccoli,2,cups,
+7,125,peanut butter,2,Tbsp.,
+8,125,apple cider vinegar,1,Tbsp.,
+9,125,low sodium soy sauce,2,Tbsp.,(/tamari)
+10,125,lime,1,,
+11,125,Sriracha,,,"(to taste, optional)"
+0,126,tamarind pulp,1,oz.,
+1,126,hot water,2,Tbsp.,
+2,126,rice sticks,4,oz.,"(dried, soaked in hot water for 30 minutes until soft. Drain, set aside)"
+3,126,dark brown sugar,2,Tbsp.,
+4,126,fish sauce,2,Tbsp.,
+5,126,vegetable oil,5,Tbsp.,
+6,126,shallot,2,,"(small, thinly sliced)"
+7,126,small onion,1,,(thinly sliced)
+8,126,garlic,3,cloves,(minced)
+9,126,firm tofu,6,oz.,"(extra-, cubed)"
+10,126,shrimp,0.5,lb.,"(large raw, in the shell, peeled and deveined)"
+11,126,green onions,6,,(cut into 1-inch lengths)
+12,126,mung bean sprouts,2,cups,
+13,126,preserved radish,0.25,cup,"(finely chopped, optional)"
+14,126,lime wedges,,,"(for garnish, optional)"
+15,126,red chili powder,,,"(for garnish, optional)"
+16,126,roasted peanuts,0.5,cup,"(finely chopped, for garnish, optional)"
+17,126,eggs,3,,
+0,127,spaghetti squash,1,,(medium size)
+1,127,coconut oil,2,Tbsp.,(plus additional for greasing baking dish)
+2,127,sweet onion,1,,"(large, roughly chopped)"
+3,127,garlic,3,cloves,(minced)
+4,127,ginger root,1,inch,"(piece of, peeled and minced)"
+5,127,carrots,4,,(peeled and sliced thinly)
+6,127,sugar snap peas,8,oz.,(ends chopped off and discarded)
+7,127,radishes,1,cup,(thinly sliced)
+8,127,cashews,0.333333333,cup,"(crushed, more to taste)"
+9,127,coconut milk,0.25,cup,(canned)
+10,127,sunflower seed butter,3,Tbsp.,
+11,127,apple cider vinegar,1,Tbsp.,
+12,127,sea salt,0.5,tsp.,
+13,127,gluten,1,Tbsp.,"(free fish sauce, eliminate on the Candida protocol)"
+14,127,coconut aminos,1,Tbsp.,(eliminate on the Candida protocol)
+15,127,chicken breasts,2,,"(Butterflied Herb, chopped or shredded, make ½ recipe or save ½ for another dish)"
+16,127,green onions,4,Tbsp.,"(sliced for garnish, optional)"
+17,127,lemon wedges,6,,"(for garnish, optional)"
+0,128,spaghetti squash,,,
+1,128,garlic,6,cloves,(finely chopped)
+2,128,green onions,3,,"(chopped, bottoms separated from tops)"
+3,128,red bell pepper,,,(chopped)
+4,128,olive oil,2,Tbsp.,
+5,128,oil,1,Tbsp.,(SEASAME)
+6,128,rice vinegar,2,Tbsp.,
+7,128,soy sauce,2,Tbsp.,
+8,128,peanut butter,2,Tbsp.,
+9,128,chopped peanuts,,,
+10,128,eggs,2,,
+11,128,bean sprouts,,,(very optional)
+12,128,chopped cilantro,,,(optional)
+13,128,chili pepper,1,tsp.,
+14,128,salt,,,
+15,128,pepper,,,
+0,129,pad Thai rice noodles,7,oz.,(from 14-oz package)
+1,129,soy sauce,3,Tbsp.,
+2,129,water,3,Tbsp.,
+3,129,fish sauce,2,Tbsp.,
+4,129,cornstarch,1,Tbsp.,
+5,129,boneless skinless chicken thighs,0.75,lb.,(cut into 1/2-inch strips)
+6,129,Thai red curry paste,2,Tbsp.,
+7,129,vegetable oil,2,Tbsp.,
+8,129,cauliflower florets,2,cups,(coarsely chopped fresh)
+9,129,red bell pepper,1,,(cut into thin strips)
+10,129,green onions,3,,(thinly sliced on the bias)
+11,129,roasted salted peanuts,0.25,cup,(chopped)
+12,129,cilantro leaves,0.25,cup,(chopped)
+13,129,mint leaves,2,Tbsp.,(chopped)
+14,129,lime,1,,(cut into wedges)
+0,130,spaghetti squash,1,,"(medium, ~4lb, cut in half, and seeds removed)"
+1,130,oil,2,tsp.,
+2,130,tamarind concentrate,1,Tbsp.,(or 1/4 cup lime juice)
+3,130,fish sauce,3,Tbsp.,(or soy sauce)
+4,130,palm sugar,3,Tbsp.,(or brown sugar)
+5,130,chili sauce,1,Tbsp.,(or to taste)
+6,130,peanut butter,2,Tbsp.,(optional)
+7,130,oil,1,Tbsp.,
+8,130,shrimp,8,oz.,(peeled and deveined)
+9,130,shallots,2,,(diced)
+10,130,garlic,3,cloves,(chopped)
+11,130,bean sprouts,2,cups,
+12,130,carrot,1,cup,(julienned)
+13,130,eggs,2,,(lightly beaten)
+14,130,green onions,4,,(sliced)
+15,130,roasted peanuts,0.25,cup,(chopped)
+16,130,cilantro,0.25,cup,(chopped)
+0,131,shrimp scampi,16.4,oz.,"(Gorton’s Simply Bake, two packages)"
+1,131,rice noodles,4,oz.,(Pad Thai)
+2,131,olive oil,2,Tbsp.,
+3,131,green onions,0.5,cup,(sliced)
+4,131,red peppers,2,,"(cored and membranes removed, cut into matchsticks)"
+5,131,English cucumbers,1,cup,(cut in half & ends trimmed and cut into matchsticks)
+6,131,shredded carrots,1,cup,
+7,131,cilantro leaves,1,cup,
+8,131,rice paper wrappers,22,inches,
+9,131,roasted peanuts,0.5,cup,(crushed)
+10,131,lime wedges,,,(for serving)
+11,131,low sodium tamari sauce,1,Tbsp.,
+12,131,creamy peanut butter,0.5,cup,(natural)
+13,131,chili garlic sauce,1,Tbsp.,(or Sriracha)
+14,131,honey,3,Tbsp.,(or substitute brown sugar or pure maple sugar)
+15,131,lime juice,2,Tbsp.,(half a lime)
+16,131,water,4,Tbsp.,(or more if you prefer a thinner sauce)
+0,132,zucchinis,2,,"(large, shredded)"
+1,132,large carrot,1,,(shredded)
+2,132,red pepper,1,,(diced)
+3,132,fresh cilantro,0.25,cup,"(a small handful, diced + more for garnshing)"
+4,132,fresh basil,0.25,cup,"(a small handful, chopped)"
+5,132,green onions,0.25,cup,"(diced, green part only for low FODMAP)"
+6,132,hot pepper,1,,(sliced - remove the seed if you want less heat)
+7,132,peanuts,0.5,cup,(toasted and roughly chopped)
+8,132,lime,0.5,,
+9,132,peanut butter,1,Tbsp.,
+10,132,sesame oil,2,Tbsp.,(+ more for frying)
+11,132,coconut aminos,2,Tbsp.,(or tamari)
+12,132,coconut sugar,1,Tbsp.,(or brown sugar)
+13,132,red pepper flakes,0.25,tsp.,(optional)
+0,133,rice noodles,8,oz.,
+1,133,onions,1,cup,(thinly sliced)
+2,133,green bell peppers,1,cup,
+3,133,ground beef,1,lb.,
+4,133,beef broth,2,cups,
+5,133,taco seasoning,2,Tbsp.,
+6,133,green onion,0.5,cup,(sliced)
+7,133,cheddar cheese,1,cup,
+8,133,avocado,0.5,cup,(diced)
+0,134,spaghetti squash,1,,
+1,134,olive oil,1,Tbsp.,
+2,134,garlic,2,cloves,(minced or crushed)
+3,134,sugar snap peas,2,cups,"(or snow peas, sliced in half)"
+4,134,bell pepper,1,,(diced)
+5,134,carrots,2,,(chopped)
+6,134,green onions,5,,(thinly sliced)
+7,134,peanuts,0.5,cup,"(chopped, more for serving)"
+8,134,lime,,,(for serving)
+9,134,soy sauce,2,Tbsp.,
+10,134,peanut butter,2,Tbsp.,
+11,134,lime juiced,0.5,,
+12,134,honey,1,Tbsp.,
+13,134,fresh ginger,2,tsp.,(finely chopped)
+0,135,peanut butter,0.5,cup,
+1,135,rice vinegar,1,Tbsp.,
+2,135,honey,2,Tbsp.,
+3,135,garlic powder,1.5,tsp.,
+4,135,fresh ginger,1,inch,(grated)
+5,135,coconut aminos,0.666666667,cup,(or soy sauce)
+6,135,limes juiced,2,,
+7,135,fish sauce,1,tsp.,
+8,135,shallots,2,,(medium)
+9,135,avocado oil,0.25,,
+10,135,purple cabbage,0.5,,
+11,135,shredded carrot,2,cups,
+12,135,zucchinis,6,,(spiralized)
+13,135,rice noodles,1,pkg.,(thin)
+14,135,chicken thighs,1,lb.,
+15,135,salt,,,
+16,135,pepper,,,
+17,135,sesame seeds,,,
+18,135,green onion,,,
+0,136,zucchinis,2,,"(large, shredded)"
+1,136,carrot,1,,"(large, shredded)"
+2,136,red pepper,1,,(diced)
+3,136,fresh cilantro,0.25,cup,"(a small handful, diced + more for garnshing)"
+4,136,fresh basil,0.25,cup,"(a small handful, chopped)"
+5,136,green onions,0.25,cup,"(diced, green part only for low FODMAP)"
+6,136,hot pepper,1,,(sliced - remove the seed if you want less heat)
+7,136,peanuts,0.5,cup,(toasted and roughly chopped)
+8,136,lime,0.5,,
+9,136,peanut butter,1,Tbsp.,
+10,136,sesame oil,2,Tbsp.,(+ more for frying)
+11,136,coconut aminos,2,Tbsp.,(or tamari)
+12,136,coconut sugar,1,Tbsp.,(or brown sugar)
+13,136,red pepper flakes,0.25,tsp.,(optional)
+0,137,spaghetti squash,1,,(medium)
+1,137,Jif® Natural Crunchy Peanut Butter,0.25,cup,
+2,137,firmly packed brown sugar,3,Tbsp.,
+3,137,tamari sauce,2,Tbsp.,
+4,137,fish sauce,1,Tbsp.,
+5,137,lime juice,2,tsp.,
+6,137,vegetable oil,1,Tbsp.,
+7,137,bean sprouts,1,cup,
+8,137,scallions,2,,(minced)
+9,137,garlic,1,clove,(minced)
+10,137,large egg,1,,(beaten)
+0,138,rice noodles,10,oz.,(use rice noodles for gluten-free version)
+1,138,coconut oil,1,Tbsp.,
+2,138,green onions,6,,(diced)
+3,138,broccoli,3,cups,"(fresh, chopped)"
+4,138,bell pepper,1,,(sliced into thin strips)
+5,138,large carrot,1,,(sliced into half-moon shapes)
+6,138,garlic,2,cloves,(minced)
+7,138,agave nectar,4,Tbsp.,
+8,138,lime juice,3,Tbsp.,(fresh squeezed)
+9,138,coconut aminos,3,Tbsp.,
+10,138,peanut butter,0.25,cup,
+11,138,crushed red pepper flakes,0.5,tsp.,
+12,138,cilantro,0.5,cup,(chopped)
+13,138,peanuts,,,"(preferably salted, for garnish, optional)"
+0,139,zucchinis,2,,"(large, shredded)"
+1,139,large carrot,1,,(shredded)
+2,139,red pepper,1,,(diced)
+3,139,fresh cilantro,0.25,cup,"(a small handful, diced + more for garnshing)"
+4,139,fresh basil,0.25,cup,"(a small handful, chopped)"
+5,139,green onions,0.25,cup,"(diced, green part only for low FODMAP)"
+6,139,hot pepper,1,,(sliced - remove the seed if you want less heat)
+7,139,peanuts,65,grams,(toasted and roughly chopped)
+8,139,lime,0.5,,
+9,139,peanut butter,1,Tbsp.,
+10,139,sesame oil,2,Tbsp.,(+ more for frying)
+11,139,coconut aminos,2,Tbsp.,(or tamari)
+12,139,coconut sugar,1,Tbsp.,(or brown sugar)
+13,139,red pepper flakes,0.25,tsp.,(optional)
+0,140,shrimp,12,oz.,"(deveined, cooked, you can use any protein, but shrimp is quickest!)"
+1,140,rice noodles,12,oz.,(I prefer linguine but you can use smaller if you need to.)
+2,140,sesame oil,4,Tbsp.,
+3,140,green onions,0.5,cup,(chopped)
+4,140,carrots,1,cup,(shredded)
+5,140,peppers,1,cup,(I used a mix of red and green)
+6,140,garlic,3,Tbsp.,(minced)
+7,140,ginger,0.5,Tbsp.,(super for your digestive system)
+8,140,turmeric,0.5,Tbsp.,(super for your immune system)
+9,140,honey,0.25,cup,(local)
+10,140,creamy peanut butter,0.25,cup,
+11,140,soy sauce,0.25,cup,(or tamari)
+12,140,rice vinegar,3,Tbsp.,
+13,140,Sriracha sauce,,,(season to your liking)
+14,140,roasted peanuts,0.5,cup,(chopped)
+15,140,cilantro,,,"(Optional:, chopped)"
+16,140,lime,,,"(Optional:, sliced)"
+0,141,olive oil,1,Tbsp.,
+1,141,small yellow onion,1,,(diced)
+2,141,chicken breasts,4,,
+3,141,zucchinis,4,,(spiralized or cut into matchsticks)
+4,141,carrot,1,pkg.,(matchsticks)
+5,141,red cabbage,0.5,,(thinly chopped)
+6,141,scallions,3,,(sliced)
+7,141,peanuts,0.25,cup,(chopped)
+8,141,chopped cilantro,0.333333333,cup,(finely)
+9,141,tamarind paste,0.25,cup,
+10,141,soy sauce,1,Tbsp.,
+11,141,peanut butter,1,Tbsp.,
+12,141,garlic,2,cloves,(minced)
+13,141,fish sauce,2,tsp.,
+14,141,lime juice,2,tsp.,
+0,142,rice noodles,8.0,oz.,(stir-fry)
+1,142,shrimp,12.0,oz.,(peeled and deveined)
+2,142,salt,,,
+3,142,pepper,,,
+4,142,low sodium chicken broth,0.5,cup,
+5,142,lime juice,3.0,Tbsp.,
+6,142,low sodium soy sauce,2.0,Tbsp.,
+7,142,minced ginger,1.0,Tbsp.,
+8,142,fish sauce,1.0,Tbsp.,
+9,142,brown sugar,1.0,Tbsp.,
+10,142,chili paste,1.0,tsp.,
+11,142,eggs,2.0,,(whisked)
+12,142,scallions,,,(optional)
+13,142,peanuts,,,(optional)
+14,142,bean sprouts,,,(optional)
+0,143,rice noodles,300.0,grams,(flat)
+1,143,red pepper,1.0,,(thinly sliced)
+2,143,zucchinis,2.0,,"(courgettes, make in to noodles)"
+3,143,carrot,1.0,,(thinly sliced in the sticks)
+4,143,olive oil,1.0,Tbsp.,
+5,143,soy sauce,2.0,Tbsp.,
+6,143,honey,1.0,Tbsp.,
+7,143,lime,1.0,,(juice only)
+8,143,red chillies,1.0,tsp.,(chopped)
+9,143,garlic,2.0,cloves,(crushed)
+10,143,eggs,3.0,,"(British Lion, beaten)"
+11,143,cilantro,4.0,Tbsp.,"(Fresh coriander, chopped)"
+12,143,peanuts,2.0,Tbsp.,(chopped)
+13,143,spring onions,2.0,,(chopped)
+0,144,chicken breasts,2.0,,"(large, cut into small pieces)"
+1,144,chunky peanut butter,0.6666666666666666,cup,
+2,144,soy sauce,6.0,Tbsp.,
+3,144,lime,1.0,,
+4,144,juice,,,
+5,144,rice wine vinegar,2.0,Tbsp.,
+6,144,toasted sesame oil,1.0,Tbsp.,
+7,144,oyster sauce,2.0,Tbsp.,
+8,144,garlic,3.0,cloves,
+9,144,brown sugar,4.0,Tbsp.,(or maple syrup)
+10,144,water,2.0,cups,
+0,145,brown rice noodles,4.0,oz.,(you can get stir-fry type noodles or Pad Thai noodles – and usually that’s half a box)
+1,145,zucchini,1.0,,
+2,145,red pepper,1.0,,
+3,145,yellow onion,0.5,,
+4,145,carrots,2.0,,
+5,145,oil,2.0,Tbsp.,
+6,145,egg,1.0,,(beaten)
+7,145,peanuts,0.5,cup,(chopped)
+8,145,fresh herbs,0.5,cup,"(like cilantro, green onions, and basil, chopped)"
+9,145,fish sauce,3.0,Tbsp.,(or vegan fish sauce substitute)
+10,145,brown sugar,3.0,Tbsp.,(or sub another sweetener)
+11,145,chicken broth,3.0,Tbsp.,
+12,145,white vinegar,2.0,Tbsp.,
+13,145,soy sauce,1.0,Tbsp.,
+14,145,chili paste,1.0,tsp.,(sambal oelek)
+0,146,chicken breast,1.0,lb.,
+1,146,spaghetti squash,1.0,,(large)
+2,146,carrots,2.0,,"(large, grated)"
+3,146,red bell pepper,1.0,,(thinly sliced)
+4,146,green onions,4.0,,(thinly sliced + more for garnish)
+5,146,garlic cloves,3.0,,(minced)
+6,146,cilantro,0.25,cup,(plus more for garnish)
+7,146,peanuts,0.3333333333333333,cup,(chopped)
+8,146,extra-virgin olive oil,2.0,Tbsp.,
+9,146,chicken stock,0.25,cup,
+10,146,rice vinegar,1.375,cups,(or substitute white vinegar)
+11,146,lime,1.0,,
+12,146,honey,3.0,Tbsp.,
+13,146,tamari,0.25,cup,(gluten free soy sauce)
+14,146,sesame oil,1.0,tsp.,
+15,146,pepper,0.25,tsp.,
+0,147,spaghetti squash,4.0,cups,"(cooked, 1 large squash or 2 small)"
+1,147,"boneless, skinless chicken breasts",1.0,lb.,
+2,147,salt,,,
+3,147,pepper,,,(to taste)
+4,147,arrowroot flour,2.0,Tbsp.,
+5,147,olive oil,2.0,Tbsp.,
+6,147,red onion,1.0,cup,(thinly sliced)
+7,147,eggs,2.0,,
+8,147,matchstick carrots,1.0,cup,
+9,147,green onions,4.0,,"(cut into 2 inch chunks, white and green parts)"
+10,147,mung bean sprouts,1.0,cup,
+11,147,Thai basil,,,"(freshly chopped, regular basil is fine)"
+12,147,freshly chopped cilantro,,,
+13,147,limes,2.0,,(cut into wedges)
+14,147,roasted cashews,1.0,handful,(loosely chopped)
+15,147,smooth almond butter,2.0,Tbsp.,
+16,147,sesame oil,0.5,tsp.,
+17,147,coconut aminos,0.5,cup,
+18,147,fish sauce,1.0,tsp.,
+19,147,Thai chiles,2.0,,(thinly sliced)
+20,147,garlic,2.0,cloves,(minced)
+21,147,rice vinegar,1.0,Tbsp.,
+22,147,ginger,1.0,inch,"(nob of, peeled and grated)"
+23,147,full fat coconut milk,3.0,Tbsp.,
+0,148,rice stick noodles,150.0,grams,(flat)
+1,148,sesame oil,2.0,Tbsp.,
+2,148,chicken breast fillet,100.0,grams,(finely sliced)
+3,148,medium carrot,1.0,,(julienned)
+4,148,red capsicum,1.0,,"(medium, finely sliced)"
+5,148,garlic clove,1.0,,(crushed)
+6,148,snow peas,80.0,grams,(trimmed and sliced)
+7,148,spring onions,3.0,,(thinly sliced)
+8,148,large eggs,2.0,,(lightly beaten)
+9,148,bean sprouts,1.0,handful,
+10,148,fresh coriander,1.0,handful,(chopped)
+11,148,unsalted peanuts,20.0,grams,(chopped)
+12,148,fresh red chilli,,,"(sliced, to serve, optional)"
+13,148,lime wedges,,,(to serve)
+14,148,fish sauce,1.0,Tbsp.,
+15,148,honey,1.0,Tbsp.,
+16,148,rice vinegar,0.5,Tbsp.,
+17,148,lime juice,1.0,Tbsp.,
+18,148,salt,1.0,Tbsp.,(reduced tamari or soy sauce)
+19,148,fresh red chilli,0.5,tsp.,(finely chopped)
+0,149,medium zucchini,1.0,,
+1,149,shredded cabbage,1.0,cup,
+2,149,red bell pepper,1.0,cup,(sliced)
+3,149,scallions,2.0,,(thinly sliced)
+4,149,chopped cilantro,0.25,cup,
+5,149,cooked quinoa,0.5,cup,
+6,149,dry roasted peanuts,0.25,cup,
+7,149,creamy peanut butter,2.0,Tbsp.,(or almond butter)
+8,149,limes,2.0,,(juice of)
+9,149,gluten-free tamari,2.0,tsp.,
+10,149,Sriracha sauce,1.0,tsp.,(or asian hot sauce of choice)
+11,149,ground ginger,0.5,tsp.,
+12,149,water,,,(as needed to thin the sauce)
+0,150,lime juice,2.0,Tbsp.,
+1,150,tomato paste,3.0,Tbsp.,
+2,150,soy sauce,6.0,Tbsp.,
+3,150,chili pepper and garlic sauce,2.0,Tbsp.,(or Sriracha)
+4,150,yellow miso,2.0,Tbsp.,
+5,150,light brown sugar,2.0,Tbsp.,
+6,150,creamy peanut butter,1.0,Tbsp.,
+7,150,tamarind paste,1.0,Tbsp.,
+8,150,water,0.5,cup,
+9,150,extra firm tofu,16.0,oz.,
+10,150,salt,0.25,tsp.,
+11,150,rice noodles,16.0,oz.,
+12,150,vegetable oil,2.0,Tbsp.,(plus more if needed)
+13,150,cabbage,1.0,head,
+14,150,green onions,5.0,,
+15,150,carrots,4.0,,
+16,150,eggs,4.0,,
+17,150,garlic,4.0,cloves,(minced)
+18,150,chopped cilantro,0.5,cup,(divided)
+19,150,mung bean sprouts,0.5,cup,
+20,150,chopped peanuts,0.5,cup,
+21,150,limes,2.0,,(cut into wedges)
+0,151,ramen noodles,4.0,cups,"(or cooked Pad thai, I use gluten free)"
+1,151,veggies,3.0,cups,"(assorted, chopped or sliced)"
+2,151,butter sauce,1.0,batch,(peanut)
+3,151,garlic,6.0,cloves,
+4,151,coconut milk,1.0,cup,
+5,151,Sriracha sauce,0.25,cup,
+6,151,salt,,,
+7,151,pepper,,,
+0,152,almond butter,0.25,cup,
+1,152,lime juice,0.25,cup,(freshly squeezed)
+2,152,tamarind paste,1.0,Tbsp.,(optional)
+3,152,fresh ginger,1.0,Tbsp.,(minced)
+4,152,garlic clove,1.0,,(minced)
+5,152,Sriracha,2.0,tsp.,(or to taste)
+6,152,salt,1.0,pinch,
+7,152,water,0.25,cup,
+8,152,zucchini,6.0,cups,"(spiralized or peeled, about 2-3 zucchini)"
+9,152,shredded carrots,1.0,cup,(about 2 carrots)
+10,152,red cabbage,1.0,cup,(thinly sliced)
+11,152,broccoli,1.0,cup,(chopped)
+12,152,snow peas,1.0,cup,(chopped)
+13,152,scallions,0.5,cup,(chopped)
+14,152,chopped almonds,0.5,cup,
+15,152,chopped cilantro,0.5,cup,
+0,153,peanut butter,2.0,Tbsp.,
+1,153,rice vinegar,0.25,tsp.,
+2,153,soy sauce,0.5,tsp.,
+3,153,honey,0.5,tsp.,
+4,153,Sriracha sauce,1.0,tsp.,
+5,153,pepper,0.125,tsp.,
+6,153,ginger powder,0.25,tsp.,
+7,153,garlic powder,0.5,tsp.,
+8,153,water,5.0,Tbsp.,
+9,153,olive oil,1.0,Tbsp.,
+10,153,sweet potato,1.0,,(peeled)
+11,153,zucchini,1.0,,
+12,153,basil leaves,,,(chopped)
+13,153,chopped peanuts,2.0,Tbsp.,
+0,154,extra firm tofu,300.0,grams,
+1,154,rice noodles,200.0,grams,
+2,154,broccoli,1.0,head,(cut into 1” florets)
+3,154,carrots,2.0,,(julienned)
+4,154,red pepper,1.0,,(julienned)
+5,154,garlic cloves,4.0,,(diced)
+6,154,oil,,,(for frying)
+7,154,peanut butter,1.0,Tbsp.,
+8,154,Sriracha sauce,2.0,Tbsp.,
+9,154,brown sugar,1.0,Tbsp.,
+10,154,ginger,,,"(thumb of, grated)"
+11,154,lime juice,1.0,,(only)
+12,154,soya sauce,3.0,Tbsp.,
+13,154,water,0.25,cup,
+14,154,spring onions,2.0,,(sliced)
+15,154,peanuts,,,(crushed)
+16,154,lime,1.0,wedge,
+0,155,extra-virgin olive oil,2.0,Tbsp.,
+1,155,red pepper,1.0,,(thinly sliced into matchsticks)
+2,155,small carrots,3.0,,(peeled and sliced into matchsticks)
+3,155,zucchini,1.0,,(chopped into matchstick)
+4,155,pad thai noodles,8.0,oz.,(brown rice)
+5,155,peanuts,,,
+6,155,green onion,,,
+7,155,lime,,,
+8,155,natural peanut butter,3.0,Tbsp.,
+9,155,low sodium soy sauce,1.0,Tbsp.,"(or tamari, if gluten free)"
+10,155,rice wine vinegar,1.0,Tbsp.,
+11,155,sriracha,1.0,Tbsp.,
+12,155,miso paste,1.0,Tbsp.,
+13,155,juice,,,(a lime)
+14,155,water,0.25,cup,
+15,155,ginger,1.0,tsp.,(freshly grated)
+0,156,rice noodles,200.0,grams,(organic)
+1,156,tofu,200.0,grams,(block of)
+2,156,rice flour,40.0,grams,
+3,156,pak choi,250.0,grams,(roughly chopped)
+4,156,beansprouts,100.0,grams,
+5,156,spring onions,6.0,,"(white and green parts, sliced on the diagonal)"
+6,156,red chilli,1.0,,"(seeds in, thinly sliced)"
+7,156,garlic,2.0,cloves,(thinly sliced)
+8,156,peanuts,50.0,grams,(dry fried in a hot pan and then roughly chopped)
+9,156,shallots,20.0,grams,(crispy)
+10,156,peanuts,30.0,grams,(dry fried and roughly chopped)
+11,156,fresh coriander,2.0,Tbsp.,(roughly chopped)
+12,156,soy sauce,80.0,mL,
+13,156,lime,1.0,,
+14,156,maple syrup,1.0,Tbsp.,
+15,156,water,2.0,Tbsp.,
+16,156,lime,1.0,,(cut into wedges)
+17,156,oil,2.0,Tbsp.,(groundnut)
+0,157,rice noodles,8.0,oz.,"(Thai,  , enough for 2 people)"
+1,157,raw shrimp,15.0,,"(small to medium, shells removed)"
+2,157,boneless chicken breast,1.0,,"(or 1 to 2 thighs*, chopped up into small pieces)"
+3,157,soy sauce,1.0,Tbsp.,
+4,157,green onions,4.0,,"(sliced, keep white separate from green)"
+5,157,garlic,4.0,cloves,(minced)
+6,157,galangal,1.0,tsp.,"(grated, or ginger)"
+7,157,green chilies,2.0,,"(or fresh red, or as much or little as you like, finely sliced)"
+8,157,egg,1.0,,
+9,157,bean sprouts,3.0,cups,
+10,157,fresh coriander,1.0,handful,(/cilantro)
+11,157,roasted peanuts,0.3333333333333333,cup,(chopped)
+12,157,vegetable oil,3.0,Tbsp.,
+13,157,lime wedges,,,(for serving)
+14,157,sauce,,,(Pad Thai)
+15,157,tamarind paste,1.5,Tbsp.,"(to taste, available at Asian/Indian food stores)"
+16,157,chicken stock,0.25,cup,
+17,157,fish sauce,3.0,Tbsp.,
+18,157,soy sauce,1.0,Tbsp.,
+19,157,chili sauce,1.0,tsp.,"( , or 1/3 to 3/4 teaspoon cayenne pepper, to taste)"
+20,157,ground white pepper,0.125,tsp.,
+0,158,rice noodles,8.0,oz.,"(flat, found in the Asian section in most grocery stores - may sub fettuccine noodles in a pinch, cooked al dente according to package instructions)"
+1,158,boneless skinless chicken breast,1.0,,
+2,158,salt,0.5,inch,
+3,158,eggs,2.0,,
+4,158,bean sprouts,1.0,cup,(fresh)
+5,158,sliced green onions,0.3333333333333333,cup,
+6,158,white onion,0.25,cup,(sliced)
+7,158,cilantro,0.3333333333333333,cup,(roughly chopped)
+8,158,peanuts,,,(optional:)
+9,158,ketchup,0.25,cup,
+10,158,fish sauce,2.0,Tbsp.,(found in the Asian section at most grocery stores)
+11,158,sugar,2.0,Tbsp.,
+12,158,minced garlic,1.0,tsp.,
+13,158,peanut butter,1.0,tsp.,
+14,158,lime,1.0,,
+15,158,crushed red pepper flakes,0.5,tsp.,
+16,158,soy sauce,1.0,tsp.,
+0,159,meat,0.75,lb.,"(your choice, such as chicken, pork, beef, or a combination cut into 2 inch strips)"
+1,159,extra firm tofu,4.0,oz.,(cut into 1.5 inch strips)
+2,159,large shrimp,8.0,,"(cleaned, with Tails)"
+3,159,rice noodles,8.0,oz.,"(Medium, #10 Thai)"
+4,159,grapeseed oil,0.25,cup,(or Vegetable or Peanut Oil)
+5,159,scallions,3.0,,(tops separated from white/greenish roots)
+6,159,garlic,1.5,tsp.,"(Fresh, minced)"
+7,159,eggs,2.0,,
+8,159,chicken stock,1.5,cups,(/Broth)
+9,159,tamarind paste,3.0,Tbsp.,
+10,159,brown sugar,0.3333333333333333,cup,(packed)
+11,159,fish sauce,2.0,Tbsp.,
+12,159,lime juice,1.0,Tbsp.,(Freshly Squeezed)
+13,159,tomato paste,1.0,Tbsp.,(single strength)
+14,159,chili paste,1.0,tsp.,(Sambal Oelek)
+15,159,medium carrot,1.0,,(shaved into ribbonss)
+16,159,bean sprouts,1.0,cup,
+17,159,cilantro leaves,0.5,cup,"(Fresh, chopped)"
+18,159,unsalted roasted peanuts,0.5,cup,(crushed)
+19,159,lime,1.0,,(cut into wedges)
+0,160,rice noodles,300.0,grams,
+1,160,red pepper,1.0,,(sliced)
+2,160,broccoli florets,1.0,cup,
+3,160,bean sprouts,1.0,cup,
+4,160,carrots,2.0,,(sliced)
+5,160,green onions,1.0,cup,(sliced)
+6,160,red onion,0.5,,(sliced)
+7,160,garlic,2.0,cloves,
+8,160,peanut oil,1.0,Tbsp.,(or any other oil)
+9,160,tofu,0.5,pkg.,(optional)
+10,160,ginger,1.0,Tbsp.,(diced)
+11,160,peanut butter,2.0,Tbsp.,
+12,160,soy sauce,4.0,Tbsp.,
+13,160,limes,2.0,,
+14,160,agave syrup,2.0,Tbsp.,
+15,160,warm water,0.75,cup,
+16,160,Sriracha sauce,,,(to taste)
+17,160,peanuts,,,(crushed)
+18,160,green onion,,,(sliced)

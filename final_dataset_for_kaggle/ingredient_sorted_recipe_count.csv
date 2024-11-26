@@ -1,0 +1,179 @@
+,common_ingredient_name,ingredient_category,default_unit,recipe_count
+0,peanut,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,153
+1,garlic,herbs,clove,145
+2,scallion / spring onion / green onion,vegetable,cup,144
+3,rice noodle,noodle / spaghetti,ounce,124
+4,bean sprout,vegetable,cup,121
+5,soy sauce,sauce / salt,tablespoon,115
+6,coriander / cilantro,herbs,tablespoon,113
+7,egg,egg,unit,111
+8,fish sauce,sauce / salt,tablespoon,95
+9,carrot,vegetable,cup,86
+10,lime juice,lime / lemon,tablespoon,77
+11,lime wedge,lime / lemon,unit,67
+12,peanut butter,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,63
+13,vinegar,vinegar,tablespoon,63
+14,water,water,cup,53
+15,brown sugar,sugar / sweeteners / syrup,tablespoon,51
+16,chicken breast,meat,ounce,48
+17,pepper,chili / pepper,unit,48
+18,tamarind concentrate / tamarind paste / tamarind juice,herbs,tablespoon,45
+19,shrimp,meat,ounce,45
+20,sriracha sauce,sauce / salt,tablespoon,44
+21,chili flakes,chili / pepper,teaspoon,43
+22,vegetable oil,oil,tablespoon,42
+23,lime,lime / lemon,unit,40
+24,firm tofu,tofu,ounce,37
+25,sugar,sugar / sweeteners / syrup,tablespoon,36
+26,salt,sauce / salt,tablespoon,35
+27,minced ginger,herbs,teaspoon,34
+28,bell pepper,chili / pepper,unit,32
+29,sesame oil,oil,tablespoon,31
+30,olive oil,oil,tablespoon,30
+31,zucchini / courgette / baby marrow,vegetable,unit,29
+32,oil,oil,tablespoon,26
+33,white sugar,sugar / sweeteners / syrup,tablespoon,22
+34,canola oil,oil,tablespoon,21
+35,chili sauce,sauce / salt,tablespoon,20
+36,peanut oil,oil,tablespoon,19
+37,cabbage,vegetable,cup,19
+38,honey,sugar / sweeteners / syrup,tablespoon,18
+39,onion,onion,cup,17
+40,chinese chive,vegetable,cup,17
+41,red chili,chili / pepper,unit,16
+42,tofu,tofu,ounce,16
+43,coconut aminos,sauce / salt,tablespoon,16
+44,shallot,onion,cup,16
+45,spaghetti squash,noodle / spaghetti,ounce,14
+46,rice vermicelli,noodle / spaghetti,ounce,14
+47,broccoli,vegetable,cup,14
+48,chili garlic sauce,sauce / salt,tablespoon,13
+49,chili paste,chili / pepper,teaspoon,13
+50,thai chili,chili / pepper,unit,12
+51,coconut milk,coconut milk,cup,12
+52,oyster sauce,sauce / salt,tablespoon,11
+53,coconut oil,oil,tablespoon,10
+54,chili powder,chili / pepper,teaspoon,10
+55,chicken stock,broth / stock,cup,9
+56,pad thai sauce,sauce / salt,tablespoon,9
+57,chicken broth,broth / stock,cup,9
+58,ketchup,sauce / salt,tablespoon,9
+59,agave syrup,sugar / sweeteners / syrup,tablespoon,8
+60,ground pepper,chili / pepper,teaspoon,8
+61,sesame,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,8
+62,starch,starch / flour,tablespoon,8
+63,cashew,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,7
+64,ground ginger,herbs,teaspoon,7
+65,mushroom,mushroom,cup,7
+66,chicken,meat,ounce,7
+67,garlic powder,herbs,teaspoon,7
+68,chili,chili / pepper,teaspoon,7
+69,sweetener,sugar / sweeteners / syrup,tablespoon,6
+70,chicken thigh,meat,ounce,6
+71,almond butter,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,6
+72,red onion,onion,cup,6
+73,tomato paste,sauce / salt,tablespoon,6
+74,snow pea,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,6
+75,vegetable broth,broth / stock,cup,6
+76,ground black pepper,chili / pepper,teaspoon,6
+77,snap pea,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,5
+78,radish,vegetable,cup,5
+79,basil,vegetable,cup,5
+80,maple syrup,sugar / sweeteners / syrup,tablespoon,5
+81,paprika,chili / pepper,teaspoon,4
+82,yellow onion,onion,unit,4
+83,spaghetti,noodle / spaghetti,ounce,4
+84,japanese noodle,noodle / spaghetti,ounce,4
+85,dried shrimp,meat,tablespoon,4
+86,frozen vegetable,vegetable,ounce,4
+87,almond,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,4
+88,lettuce,vegetable,head,3
+89,broccoli slaw,vegetable,ounce,3
+90,cucumber,vegetable,cup,3
+91,lemon,lime / lemon,unit,3
+92,shirataki noodle,noodle / spaghetti,ounce,3
+93,vegetable,vegetable,cup,3
+94,miso paste,soybean paste,tablespoon,3
+95,avocado oil,oil,tablespoon,3
+96,grapeseed oil,oil,tablespoon,3
+97,liquid aminos,sauce / salt,tablespoon,3
+98,turmeric,herbs,teaspoon,3
+99,sunflower butter,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,3
+100,edamame,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,3
+101,worcestershire sauce,sauce / salt,tablespoon,3
+102,clove,herbs,unit,2
+103,date palm,fruit / fruit juice,unit,2
+104,beef broth,broth / stock,cup,2
+105,soy,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,2
+106,egg white,egg,unit,2
+107,thai basil,vegetable,cup,2
+108,pak choi,vegetable,ounce,2
+109,preserved radish,vegetable,cup,2
+110,leaves,vegetable,stalk,2
+111,cauliflower florets,vegetable,cup,2
+112,pineapple,fruit / fruit juice,tablespoon,2
+113,juice,fruit / fruit juice,tablespoon,2
+114,coleslaw,vegetable,ounce,2
+115,asparagus,vegetable,spear,2
+116,meat,meat,ounce,2
+117,lime peel,lime / lemon,tablespoon,2
+118,mint,herbs,tablespoon,2
+119,lemongrass,herbs,tablespoon,2
+120,lemon juice,lime / lemon,tablespoon,2
+121,lemon wedge,lime / lemon,unit,2
+122,flour,starch / flour,tablespoon,2
+123,shrimp paste,shrimp paste,tablespoon,2
+124,tahini,sauce / salt,tablespoon,2
+125,teriyaki sauce,sauce / salt,tablespoon,2
+126,raw sugar,sugar / sweeteners / syrup,tablespoon,2
+127,quinoa,quinoa,cup,2
+128,ground radish,vegetable,tablespoon,2
+129,potato,vegetable,unit,2
+130,pork,meat,ounce,2
+131,white onion,onion,cup,2
+132,rice paper wrappers,rice paper wrappers,inch,2
+133,hoisin sauce,sauce / salt,tablespoon,2
+134,thai red curry paste,chili / pepper,teaspoon,1
+135,vegetable stock,broth / stock,cup,1
+136,cumin powder,herbs,tablespoon,1
+137,orange juice,fruit / fruit juice,unit,1
+138,ghee,cheese / butter,tablespoon,1
+139,cheese,cheese / butter,tablespoon,1
+140,sunflower seed,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,1
+141,broth,broth / stock,cup,1
+142,broad bean,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,1
+143,green bean,beans / peas / lentils / nuts / nut butter / seeds,tablespoon,1
+144,butter,cheese / butter,tablespoon,1
+145,taco seasoning,chili / pepper,teaspoon,1
+146,curry powder,herbs,tablespoon,1
+147,galangal,herbs,tablespoon,1
+148,condiments,sauce / salt,tablespoon,1
+149,sunflower oil,oil,tablespoon,1
+150,flaxseed oil,oil,tablespoon,1
+151,onion powder,onion,teaspoon,1
+152,safflower oil,oil,tablespoon,1
+153,kelp noodle,noodle / spaghetti,ounce,1
+154,sausage,meat,ounce,1
+155,bacon,meat,slice,1
+156,kaffir lime leaf,herbs,tablespoon,1
+157,ginger garlic paste,herbs,teaspoon,1
+158,beef,meat,ounce,1
+159,rapeseed oil,oil,tablespoon,1
+160,shrimp scampi,meat,ounce,1
+161,mustard,sauce / salt,tablespoon,1
+162,baby corn,vegetable,cup,1
+163,avocado,vegetable,cup,1
+164,syrup,sugar / sweeteners / syrup,tablespoon,1
+165,soft tofu,tofu,ounce,1
+166,molasses,sugar / sweeteners / syrup,tablespoon,1
+167,peanut sauce,sauce / salt,tablespoon,1
+168,seaweed,seaweed,sheet,1
+169,soybean paste,soybean paste,tablespoon,1
+170,kale,vegetable,bunch,1
+171,greens,vegetable,tablespoon,1
+172,baby spinach,vegetable,cup,1
+173,butternut squash,vegetable,cup,1
+174,banana blossom,vegetable,cup,1
+175,water chestnut,vegetable,cup,1
+176,yellow summer squash,vegetable,unit,1
+177,yeast,yeast,cup,1
