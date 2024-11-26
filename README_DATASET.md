@@ -1,6 +1,7 @@
 # Pad Thai Recipe Dataset
 ### **Author**: Matana Pornluanprasert<br>
 ### **Date**: 26 November 2024<br>
+### **Link to the Dataset on Kaggle**: [https://www.kaggle.com/datasets/beungz/pad-thai-recipe-dataset](https://www.kaggle.com/datasets/beungz/pad-thai-recipe-dataset)
 
 ### **Data Sources**:<br>
 This dataset contains recipe data scraped from the following websites:
