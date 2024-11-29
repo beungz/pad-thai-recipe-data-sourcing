@@ -286,9 +286,9 @@ def main():
     # Get the list of recipe from search
     y_create_recipe_list_from_search(driver, initial_webscraped_data_directory)
     # Get list of xml links from the site map
-    xml_links = y_create_xml_list(driver, initial_webscraped_data_directory)
+    xml_links = y_create_xml_list(initial_webscraped_data_directory)
     # Looping through all xml links to get recipe links with pad-thai in the link address
-    y_get_recipe_link_from_all_xml(driver, xml_links, initial_webscraped_data_directory)
+    y_get_recipe_link_from_all_xml(xml_links, initial_webscraped_data_directory)
     # Get ingredient data for the recipes from the search result
     y_get_ingredients_from_recipe_list_from_search(initial_webscraped_data_directory, webscraped_data_directory)
     # Get ingredient data for the recipe links from XML
