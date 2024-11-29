@@ -119,16 +119,24 @@ def y_create_recipe_list_from_search(driver, initial_webscraped_data_directory):
     # Save the recipe data from the search into CSV. (This is temporary, not a final list of recipe from Yummly)
     recipe_data_from_search = pd.DataFrame([recipe_id_list, recipe_name_list, recipe_creator_name_list, recipe_ratings_list, recipe_num_saved_list, recipe_link_list], index=["recipe_id", "recipe_name", "recipe_creator_name", "recipe_ratings", "recipe_num_saved", "recipe_link"]).T
     recipe_data_from_search.to_csv(f"{initial_webscraped_data_directory}yummly_recipe_data_from_search.csv")
+    driver.quit()
     return recipe_data_from_search
 
 
 
-def y_create_xml_list(driver, initial_webscraped_data_directory):
+def y_create_xml_list(initial_webscraped_data_directory):
     """Get list of xml links from the site map"""
-    # Go to sitemap to obtain list of xml links
+    # Open Chrome Browser and go to sitemap to obtain list of xml links
+    chrome_options = webdriver.ChromeOptions()
+    driver = webdriver.Chrome(options=chrome_options)
+    driver.maximize_window()
     sitemap_xml_url = 'https://www.yummly.com/yummly-all-pages-us.xml'
     driver.get(sitemap_xml_url)
-    driver.implicitly_wait(20)
+    # driver.implicitly_wait(20)
+    # Wait for the recipe section to be present
+    sitemap_section = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located(((By.TAG_NAME, "sitemap")))
+    )
 
     # Use BeautifulSoup to scrape the data using the page_source returned from Selenium webdriver
     page_source2 = driver.page_source
@@ -148,12 +156,16 @@ def y_create_xml_list(driver, initial_webscraped_data_directory):
     # Save the list of xml links into CSV
     xml_link_data = pd.DataFrame([xml_links], index=["xml_link"]).T
     xml_link_data.to_csv(f"{initial_webscraped_data_directory}yummly_xml_link_data.csv")
+    driver.quit()
     return xml_links
 
 
 
-def y_get_recipe_link_from_one_xml(driver, xml_link, count_recipe, first_xml, initial_webscraped_data_directory):
+def y_get_recipe_link_from_one_xml(xml_link, count_recipe, first_xml, initial_webscraped_data_directory):
     '''Retrieve list of recipe links related to Pad Thai, from the XML link'''
+    chrome_options = webdriver.ChromeOptions()
+    driver = webdriver.Chrome(options=chrome_options)
+    driver.maximize_window()
     count_relevant_recipe = count_recipe
     recipe_id_list, recipe_link_list = [], []
 
@@ -192,7 +204,7 @@ def y_get_recipe_link_from_one_xml(driver, xml_link, count_recipe, first_xml, in
             recipe_alllink_data.to_csv(f"{initial_webscraped_data_directory}yummly_recipe_alllink_data.csv")
         else:
             recipe_alllink_data.to_csv(f"{initial_webscraped_data_directory}yummly_recipe_alllink_data.csv", mode="a", index=True, header=False)
-
+        driver.quit()
         return count_relevant_recipe
     except:
         print("Error occured")
@@ -204,7 +216,7 @@ def y_get_recipe_link_from_one_xml(driver, xml_link, count_recipe, first_xml, in
 
 
 
-def y_get_recipe_link_from_all_xml(driver, xml_links, initial_webscraped_data_directory):
+def y_get_recipe_link_from_all_xml(xml_links, initial_webscraped_data_directory):
     """Looping through all xml links to get recipe links with pad-thai in the link address"""
     count_recipe = 0
     first_xml = True
@@ -213,7 +225,7 @@ def y_get_recipe_link_from_all_xml(driver, xml_links, initial_webscraped_data_di
     for xml_link in xml_links:
         count_xml += 1
         print("\n", xml_link)
-        count_recipe = y_get_recipe_link_from_one_xml(driver, xml_link, count_recipe, first_xml, initial_webscraped_data_directory)
+        count_recipe = y_get_recipe_link_from_one_xml(xml_link, count_recipe, first_xml, initial_webscraped_data_directory)
         first_xml = False
     return count_recipe
 
